@@ -4,7 +4,7 @@ from flask_restx import Api
 from .locations.views import locations_namespace
 from .auth.views import auth_namespace
 from .config.config import config_dict
-from .utils.dbss import db
+from .utils import db
 from .models.users import User
 from flask_migrate import migrate
 
@@ -26,3 +26,7 @@ def create_app(config=config_dict['dev']):
         }
 
     return app
+
+
+
+
