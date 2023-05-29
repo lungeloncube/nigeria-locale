@@ -1,3 +1,5 @@
+import json
+
 from flask_restx import Namespace, Resource
 
 locations_namespace = Namespace("locations", description="a namespace for locations")
@@ -32,7 +34,9 @@ class GetStates(Resource):
     """Gets all states coordinates"""
 
     def get(self):
-        pass
+        with open('static/states_list.json', 'r') as f:
+            data = json.load(f)
+            return data
 
 
 @locations_namespace.route('/state')
