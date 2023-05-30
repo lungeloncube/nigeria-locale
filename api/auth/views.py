@@ -1,5 +1,6 @@
 import functools
 
+from flask_jwt_extended import jwt_required, get_jwt_identity
 from flask_restx import Namespace, Resource, Namespace, fields
 from flask import request, abort
 from ..models.users import User
@@ -82,6 +83,7 @@ class Login(Resource):
 
 @auth_namespace.route("/country/<name>")
 class Country(Resource):
+
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')

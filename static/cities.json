@@ -1,0 +1,2598 @@
+[
+    {
+        "geo_id": 2322957,
+        "name": "Soba",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.98134,
+        "longitude": 8.05749
+    },
+    {
+        "geo_id": 2323390,
+        "name": "Saki",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.66667,
+        "longitude": 3.38333
+    },
+    {
+        "geo_id": 2323411,
+        "name": "Shagamu",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.84323,
+        "longitude": 3.64776
+    },
+    {
+        "geo_id": 2317548,
+        "name": "Zuru",
+        "state_or_region": "Kebbi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.42406,
+        "longitude": 5.22879
+    },
+    {
+        "geo_id": 2317569,
+        "name": "Zungeru",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.81278,
+        "longitude": 6.15583
+    },
+    {
+        "geo_id": 2317765,
+        "name": "Zaria",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.11128,
+        "longitude": 7.7227
+    },
+    {
+        "geo_id": 2318044,
+        "name": "Yola",
+        "state_or_region": "Adamawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.2,
+        "longitude": 12.48333
+    },
+    {
+        "geo_id": 2318123,
+        "name": "Yenagoa",
+        "state_or_region": "Bayelsa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.92472,
+        "longitude": 6.26417
+    },
+    {
+        "geo_id": 2318921,
+        "name": "Wukari",
+        "state_or_region": "Taraba",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.85,
+        "longitude": 9.78333
+    },
+    {
+        "geo_id": 2318933,
+        "name": "Wudil",
+        "state_or_region": "Kano",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.81067,
+        "longitude": 8.84505
+    },
+    {
+        "geo_id": 2319133,
+        "name": "Warri",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.51667,
+        "longitude": 5.75
+    },
+    {
+        "geo_id": 2319257,
+        "name": "Wamba",
+        "state_or_region": "Nassarawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.93333,
+        "longitude": 8.6
+    },
+    {
+        "geo_id": 2319480,
+        "name": "Uyo",
+        "state_or_region": "Akwa Ibom",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.03333,
+        "longitude": 7.92657
+    },
+    {
+        "geo_id": 2319668,
+        "name": "Uromi",
+        "state_or_region": "Edo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.7,
+        "longitude": 6.33333
+    },
+    {
+        "geo_id": 2320576,
+        "name": "Umuahia",
+        "state_or_region": "Abia",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.52627,
+        "longitude": 7.48959
+    },
+    {
+        "geo_id": 2320829,
+        "name": "Ughelli",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.48986,
+        "longitude": 6.00743
+    },
+    {
+        "geo_id": 2320831,
+        "name": "Ugep",
+        "state_or_region": "Cross River",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.8086,
+        "longitude": 8.0812
+    },
+    {
+        "geo_id": 2320920,
+        "name": "Uga",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.93576,
+        "longitude": 7.0793
+    },
+    {
+        "geo_id": 2321031,
+        "name": "Ubiaja",
+        "state_or_region": "Edo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.65504,
+        "longitude": 6.38687
+    },
+    {
+        "geo_id": 2322263,
+        "name": "Tegina",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.0706,
+        "longitude": 6.1906
+    },
+    {
+        "geo_id": 2322495,
+        "name": "Tambuwal",
+        "state_or_region": "Sokoto",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.40386,
+        "longitude": 4.64692
+    },
+    {
+        "geo_id": 2322529,
+        "name": "Talata Mafara",
+        "state_or_region": "Zamfara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.57317,
+        "longitude": 6.05971
+    },
+    {
+        "geo_id": 2322552,
+        "name": "Takum",
+        "state_or_region": "Benue",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.26667,
+        "longitude": 9.98333
+    },
+    {
+        "geo_id": 2322794,
+        "name": "Suleja",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.17583,
+        "longitude": 7.18083
+    },
+    {
+        "geo_id": 2322911,
+        "name": "Sokoto",
+        "state_or_region": "Sokoto",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 13.06092,
+        "longitude": 5.23902
+    },
+    {
+        "geo_id": 2323675,
+        "name": "Sapele",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.89405,
+        "longitude": 5.67666
+    },
+    {
+        "geo_id": 2324504,
+        "name": "Rijau",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.10298,
+        "longitude": 5.25068
+    },
+    {
+        "geo_id": 2324575,
+        "name": "Rano",
+        "state_or_region": "Kano",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.54912,
+        "longitude": 8.57464
+    },
+    {
+        "geo_id": 2324767,
+        "name": "Potiskum",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.7091,
+        "longitude": 11.0694
+    },
+    {
+        "geo_id": 2324774,
+        "name": "Port Harcourt",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.77742,
+        "longitude": 7.0134
+    },
+    {
+        "geo_id": 2324857,
+        "name": "Pindiga",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.98333,
+        "longitude": 10.93333
+    },
+    {
+        "geo_id": 2324960,
+        "name": "Patigi",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.73333,
+        "longitude": 5.75
+    },
+    {
+        "geo_id": 2325060,
+        "name": "Pankshin",
+        "state_or_region": "Plateau",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.33333,
+        "longitude": 9.45
+    },
+    {
+        "geo_id": 2325161,
+        "name": "Ozubulu",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.95666,
+        "longitude": 6.84904
+    },
+    {
+        "geo_id": 2325200,
+        "name": "Oyo",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.85,
+        "longitude": 3.93333
+    },
+    {
+        "geo_id": 2325249,
+        "name": "Oyan",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.05,
+        "longitude": 4.76667
+    },
+    {
+        "geo_id": 2325314,
+        "name": "Owo",
+        "state_or_region": "Ondo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.1962,
+        "longitude": 5.58681
+    },
+    {
+        "geo_id": 2325330,
+        "name": "Owerri",
+        "state_or_region": "Imo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.48333,
+        "longitude": 7.03041
+    },
+    {
+        "geo_id": 2325437,
+        "name": "Otukpa",
+        "state_or_region": "Benue",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.08921,
+        "longitude": 7.64989
+    },
+    {
+        "geo_id": 2325590,
+        "name": "Osogbo",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.76667,
+        "longitude": 4.56667
+    },
+    {
+        "geo_id": 2325733,
+        "name": "Orita Eruwa",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.55,
+        "longitude": 3.43333
+    },
+    {
+        "geo_id": 2326016,
+        "name": "Onitsha",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.14543,
+        "longitude": 6.78845
+    },
+    {
+        "geo_id": 2326171,
+        "name": "Ondo",
+        "state_or_region": "Ondo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.1,
+        "longitude": 4.83333
+    },
+    {
+        "geo_id": 2326302,
+        "name": "Olupona",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.6,
+        "longitude": 4.18333
+    },
+    {
+        "geo_id": 2326811,
+        "name": "Okuta",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.21667,
+        "longitude": 3.18333
+    },
+    {
+        "geo_id": 2326899,
+        "name": "Okrika",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.74159,
+        "longitude": 7.08488
+    },
+    {
+        "geo_id": 2327143,
+        "name": "Okigwe",
+        "state_or_region": "Imo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.83523,
+        "longitude": 7.35989
+    },
+    {
+        "geo_id": 2327223,
+        "name": "Oke Mesi",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.81667,
+        "longitude": 4.91667
+    },
+    {
+        "geo_id": 2327494,
+        "name": "Ohafia-Ifigh",
+        "state_or_region": "Abia",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.61455,
+        "longitude": 7.81191
+    },
+    {
+        "geo_id": 2327513,
+        "name": "Ogwashi-Uku",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.17818,
+        "longitude": 6.52429
+    },
+    {
+        "geo_id": 2327521,
+        "name": "Oguta",
+        "state_or_region": "Imo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.7089,
+        "longitude": 6.81026
+    },
+    {
+        "geo_id": 2327650,
+        "name": "Ogoja",
+        "state_or_region": "Cross River",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.65471,
+        "longitude": 8.79764
+    },
+    {
+        "geo_id": 2327827,
+        "name": "Ogaminana",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.59464,
+        "longitude": 6.22476
+    },
+    {
+        "geo_id": 2327879,
+        "name": "Offa",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.15,
+        "longitude": 4.71667
+    },
+    {
+        "geo_id": 2328090,
+        "name": "Ode",
+        "state_or_region": "Ondo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.7899,
+        "longitude": 5.7117
+    },
+    {
+        "geo_id": 2328151,
+        "name": "Obudu",
+        "state_or_region": "Cross River",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.66737,
+        "longitude": 9.17157
+    },
+    {
+        "geo_id": 2328185,
+        "name": "Obonoma",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.70844,
+        "longitude": 6.79307
+    },
+    {
+        "geo_id": 2328617,
+        "name": "Numan",
+        "state_or_region": "Adamawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.46667,
+        "longitude": 12.03333
+    },
+    {
+        "geo_id": 2328684,
+        "name": "Nsukka",
+        "state_or_region": "Enugu",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.8561,
+        "longitude": 7.3927
+    },
+    {
+        "geo_id": 2328765,
+        "name": "Nnewi",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.01986,
+        "longitude": 6.91478
+    },
+    {
+        "geo_id": 2328790,
+        "name": "Nkwerre",
+        "state_or_region": "Imo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.75555,
+        "longitude": 7.10627
+    },
+    {
+        "geo_id": 2328811,
+        "name": "Nkpor",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.15164,
+        "longitude": 6.84458
+    },
+    {
+        "geo_id": 2328952,
+        "name": "Nguru",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.8791,
+        "longitude": 10.4526
+    },
+    {
+        "geo_id": 2329451,
+        "name": "Nasarawa",
+        "state_or_region": "Nassarawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.52944,
+        "longitude": 7.72417
+    },
+    {
+        "geo_id": 2329562,
+        "name": "Nafada",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.0956,
+        "longitude": 11.3327
+    },
+    {
+        "geo_id": 2329821,
+        "name": "Mubi",
+        "state_or_region": "Adamawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.26761,
+        "longitude": 13.26436
+    },
+    {
+        "geo_id": 2329920,
+        "name": "Moriki",
+        "state_or_region": "Zamfara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.87405,
+        "longitude": 6.48754
+    },
+    {
+        "geo_id": 2329946,
+        "name": "Monguno",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.67863,
+        "longitude": 13.60792
+    },
+    {
+        "geo_id": 2329981,
+        "name": "Mokwa",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.28333,
+        "longitude": 5.05
+    },
+    {
+        "geo_id": 2330028,
+        "name": "Modakeke",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.38333,
+        "longitude": 4.26667
+    },
+    {
+        "geo_id": 2330100,
+        "name": "Minna",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.61389,
+        "longitude": 6.55694
+    },
+    {
+        "geo_id": 2330719,
+        "name": "Marte",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.36113,
+        "longitude": 13.8246
+    },
+    {
+        "geo_id": 2331005,
+        "name": "Malumfashi",
+        "state_or_region": "Katsina",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.78529,
+        "longitude": 7.62175
+    },
+    {
+        "geo_id": 2331140,
+        "name": "Makurdi",
+        "state_or_region": "Benue",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.7411,
+        "longitude": 8.5121
+    },
+    {
+        "geo_id": 2331447,
+        "name": "Maiduguri",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.84644,
+        "longitude": 13.16027
+    },
+    {
+        "geo_id": 2331528,
+        "name": "Magumeri",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.1131,
+        "longitude": 12.8274
+    },
+    {
+        "geo_id": 2331939,
+        "name": "Lokoja",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.80236,
+        "longitude": 6.743
+    },
+    {
+        "geo_id": 2332079,
+        "name": "Lere",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.38697,
+        "longitude": 8.57262
+    },
+    {
+        "geo_id": 2332249,
+        "name": "Lapai",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.05,
+        "longitude": 6.56667
+    },
+    {
+        "geo_id": 2332357,
+        "name": "Lalupon",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.46667,
+        "longitude": 4.06667
+    },
+    {
+        "geo_id": 2332459,
+        "name": "Lagos",
+        "state_or_region": "Lagos",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.45306,
+        "longitude": 3.39583
+    },
+    {
+        "geo_id": 2332504,
+        "name": "Lafiagi",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.86667,
+        "longitude": 5.41667
+    },
+    {
+        "geo_id": 2332515,
+        "name": "Lafia",
+        "state_or_region": "Nassarawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.48333,
+        "longitude": 8.51667
+    },
+    {
+        "geo_id": 2332871,
+        "name": "Kwale",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.70632,
+        "longitude": 6.43741
+    },
+    {
+        "geo_id": 2333451,
+        "name": "Kumo",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.04469,
+        "longitude": 11.21217
+    },
+    {
+        "geo_id": 2333490,
+        "name": "Kumagunnam",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 13.15514,
+        "longitude": 10.63423
+    },
+    {
+        "geo_id": 2333563,
+        "name": "Kukawa",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.92342,
+        "longitude": 13.56058
+    },
+    {
+        "geo_id": 2334008,
+        "name": "Kontagora",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.39989,
+        "longitude": 5.46949
+    },
+    {
+        "geo_id": 2334327,
+        "name": "Kisi",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.08333,
+        "longitude": 3.85
+    },
+    {
+        "geo_id": 2334652,
+        "name": "Keffi",
+        "state_or_region": "Nassarawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.84861,
+        "longitude": 7.87361
+    },
+    {
+        "geo_id": 2334756,
+        "name": "Kaura Namoda",
+        "state_or_region": "Zamfara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.58979,
+        "longitude": 6.57791
+    },
+    {
+        "geo_id": 2334801,
+        "name": "Katsina-Ala",
+        "state_or_region": "Benue",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.16667,
+        "longitude": 9.28333
+    },
+    {
+        "geo_id": 2334802,
+        "name": "Katsina",
+        "state_or_region": "Katsina",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.98943,
+        "longitude": 7.60063
+    },
+    {
+        "geo_id": 2335015,
+        "name": "Kari",
+        "state_or_region": "Bauchi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.2471,
+        "longitude": 10.561
+    },
+    {
+        "geo_id": 2335204,
+        "name": "Kano",
+        "state_or_region": "Kano",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.00012,
+        "longitude": 8.51672
+    },
+    {
+        "geo_id": 2335333,
+        "name": "Kamba",
+        "state_or_region": "Kebbi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.84864,
+        "longitude": 3.65761
+    },
+    {
+        "geo_id": 2335596,
+        "name": "Kaiama",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.6225,
+        "longitude": 3.94806
+    },
+    {
+        "geo_id": 2335614,
+        "name": "Kagoro",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.6,
+        "longitude": 8.38333
+    },
+    {
+        "geo_id": 2335713,
+        "name": "Kafanchan",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.58333,
+        "longitude": 8.3
+    },
+    {
+        "geo_id": 2335727,
+        "name": "Kaduna",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.52224,
+        "longitude": 7.43828
+    },
+    {
+        "geo_id": 2335798,
+        "name": "Kachia",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.86667,
+        "longitude": 7.95
+    },
+    {
+        "geo_id": 2335843,
+        "name": "Kabba",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.82873,
+        "longitude": 6.0731
+    },
+    {
+        "geo_id": 2335953,
+        "name": "Jos",
+        "state_or_region": "Plateau",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.91667,
+        "longitude": 8.9
+    },
+    {
+        "geo_id": 2336056,
+        "name": "Jimeta",
+        "state_or_region": "Adamawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.28333,
+        "longitude": 12.46667
+    },
+    {
+        "geo_id": 2336237,
+        "name": "Jega",
+        "state_or_region": "Kebbi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.2175,
+        "longitude": 4.37917
+    },
+    {
+        "geo_id": 2336251,
+        "name": "Jebba",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.13333,
+        "longitude": 4.83333
+    },
+    {
+        "geo_id": 2336589,
+        "name": "Jalingo",
+        "state_or_region": "Taraba",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.88333,
+        "longitude": 11.36667
+    },
+    {
+        "geo_id": 2336905,
+        "name": "Iwo",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.63333,
+        "longitude": 4.18333
+    },
+    {
+        "geo_id": 2336985,
+        "name": "Itu",
+        "state_or_region": "Akwa Ibom",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.2004,
+        "longitude": 7.98475
+    },
+    {
+        "geo_id": 2337148,
+        "name": "Isieke",
+        "state_or_region": "Ebonyi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.37831,
+        "longitude": 8.03524
+    },
+    {
+        "geo_id": 2337207,
+        "name": "Ise-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.4632,
+        "longitude": 5.4281
+    },
+    {
+        "geo_id": 2337235,
+        "name": "Isanlu-Itedoijowa",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.26667,
+        "longitude": 5.83333
+    },
+    {
+        "geo_id": 2337352,
+        "name": "Ipoti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.87377,
+        "longitude": 5.07692
+    },
+    {
+        "geo_id": 2337379,
+        "name": "Iperu",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.91002,
+        "longitude": 3.66557
+    },
+    {
+        "geo_id": 2337490,
+        "name": "Inisa",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.85,
+        "longitude": 4.33333
+    },
+    {
+        "geo_id": 2337639,
+        "name": "Ilorin",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.5,
+        "longitude": 4.55
+    },
+    {
+        "geo_id": 2337659,
+        "name": "Ilobu",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.83333,
+        "longitude": 4.48333
+    },
+    {
+        "geo_id": 2337680,
+        "name": "Illela",
+        "state_or_region": "Sokoto",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 13.72918,
+        "longitude": 5.29752
+    },
+    {
+        "geo_id": 2337704,
+        "name": "Ilesa",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.61667,
+        "longitude": 4.73333
+    },
+    {
+        "geo_id": 2337759,
+        "name": "Ilaro",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.88653,
+        "longitude": 3.0205
+    },
+    {
+        "geo_id": 2337765,
+        "name": "Ila Orangun",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.01667,
+        "longitude": 4.9
+    },
+    {
+        "geo_id": 2338106,
+        "name": "Ikot Ekpene",
+        "state_or_region": "Akwa Ibom",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.17938,
+        "longitude": 7.71082
+    },
+    {
+        "geo_id": 2338242,
+        "name": "Ikom",
+        "state_or_region": "Cross River",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.96669,
+        "longitude": 8.70632
+    },
+    {
+        "geo_id": 2338269,
+        "name": "Ikirun",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.91667,
+        "longitude": 4.66667
+    },
+    {
+        "geo_id": 2338273,
+        "name": "Ikire",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.35,
+        "longitude": 4.18333
+    },
+    {
+        "geo_id": 2338287,
+        "name": "Ikere-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.49133,
+        "longitude": 5.23225
+    },
+    {
+        "geo_id": 2338313,
+        "name": "Ikeja",
+        "state_or_region": "Lagos",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.59422,
+        "longitude": 3.33748
+    },
+    {
+        "geo_id": 2338385,
+        "name": "Ijero-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.8139,
+        "longitude": 5.0742
+    },
+    {
+        "geo_id": 2338400,
+        "name": "Ijebu-Ode",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.81609,
+        "longitude": 3.91588
+    },
+    {
+        "geo_id": 2338401,
+        "name": "Ijebu-Jesa",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.68333,
+        "longitude": 4.81667
+    },
+    {
+        "geo_id": 2338403,
+        "name": "Ijebu-Igbo",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.9798,
+        "longitude": 4.00329
+    },
+    {
+        "geo_id": 2338497,
+        "name": "Ihiala",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.85377,
+        "longitude": 6.86026
+    },
+    {
+        "geo_id": 2338630,
+        "name": "Igede-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.66676,
+        "longitude": 5.13205
+    },
+    {
+        "geo_id": 2338640,
+        "name": "Igbo-Ukwu",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.01669,
+        "longitude": 7.02654
+    },
+    {
+        "geo_id": 2338660,
+        "name": "Igbor",
+        "state_or_region": "Benue",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.4527,
+        "longitude": 8.6098
+    },
+    {
+        "geo_id": 2338669,
+        "name": "Igbo-Ora",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.43333,
+        "longitude": 3.28333
+    },
+    {
+        "geo_id": 2338711,
+        "name": "Igboho",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.83333,
+        "longitude": 3.75
+    },
+    {
+        "geo_id": 2338772,
+        "name": "Igbeti",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.75,
+        "longitude": 4.13333
+    },
+    {
+        "geo_id": 2338810,
+        "name": "Igbara-Odo",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.50251,
+        "longitude": 5.06258
+    },
+    {
+        "geo_id": 2338876,
+        "name": "Ifo",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.81437,
+        "longitude": 3.19575
+    },
+    {
+        "geo_id": 2339150,
+        "name": "Idanre",
+        "state_or_region": "Ondo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.1127,
+        "longitude": 5.1159
+    },
+    {
+        "geo_id": 2339156,
+        "name": "Idah",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.10651,
+        "longitude": 6.73415
+    },
+    {
+        "geo_id": 2339287,
+        "name": "Ibi",
+        "state_or_region": "Taraba",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.18333,
+        "longitude": 9.75
+    },
+    {
+        "geo_id": 2339293,
+        "name": "Ibeto",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.48536,
+        "longitude": 5.14502
+    },
+    {
+        "geo_id": 2339354,
+        "name": "Ibadan",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.38778,
+        "longitude": 3.89639
+    },
+    {
+        "geo_id": 2339631,
+        "name": "Hadejia",
+        "state_or_region": "Jigawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.4498,
+        "longitude": 10.0444
+    },
+    {
+        "geo_id": 2339665,
+        "name": "Gwoza",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.10359,
+        "longitude": 13.71298
+    },
+    {
+        "geo_id": 2339756,
+        "name": "Gwarzo",
+        "state_or_region": "Kano",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.91521,
+        "longitude": 7.9346
+    },
+    {
+        "geo_id": 2339786,
+        "name": "Gwaram",
+        "state_or_region": "Jigawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.27639,
+        "longitude": 9.88583
+    },
+    {
+        "geo_id": 2339892,
+        "name": "Gwadabawa",
+        "state_or_region": "Sokoto",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 13.35612,
+        "longitude": 5.23664
+    },
+    {
+        "geo_id": 2339937,
+        "name": "Gusau",
+        "state_or_region": "Zamfara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.16278,
+        "longitude": 6.66135
+    },
+    {
+        "geo_id": 2340086,
+        "name": "Gummi",
+        "state_or_region": "Zamfara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.14358,
+        "longitude": 5.10809
+    },
+    {
+        "geo_id": 2340091,
+        "name": "Gumel",
+        "state_or_region": "Jigawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.62791,
+        "longitude": 9.39119
+    },
+    {
+        "geo_id": 2340446,
+        "name": "Gombi",
+        "state_or_region": "Adamawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.16138,
+        "longitude": 12.7399
+    },
+    {
+        "geo_id": 2340451,
+        "name": "Gombe",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.28969,
+        "longitude": 11.16729
+    },
+    {
+        "geo_id": 2341275,
+        "name": "Gembu",
+        "state_or_region": "Taraba",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.7,
+        "longitude": 11.26667
+    },
+    {
+        "geo_id": 2341294,
+        "name": "Geidam",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.897,
+        "longitude": 11.9304
+    },
+    {
+        "geo_id": 2341355,
+        "name": "Gbongan",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.46667,
+        "longitude": 4.35
+    },
+    {
+        "geo_id": 2341580,
+        "name": "Gaya",
+        "state_or_region": "Kano",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.86136,
+        "longitude": 8.99714
+    },
+    {
+        "geo_id": 2341656,
+        "name": "Gashua",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.871,
+        "longitude": 11.0482
+    },
+    {
+        "geo_id": 2341758,
+        "name": "Garko",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.17506,
+        "longitude": 11.16458
+    },
+    {
+        "geo_id": 2341955,
+        "name": "Ganye",
+        "state_or_region": "Adamawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.43333,
+        "longitude": 12.06667
+    },
+    {
+        "geo_id": 2342192,
+        "name": "Gamboru",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.37066,
+        "longitude": 14.21731
+    },
+    {
+        "geo_id": 2342490,
+        "name": "Funtua",
+        "state_or_region": "Katsina",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.52325,
+        "longitude": 7.30813
+    },
+    {
+        "geo_id": 2342628,
+        "name": "Fiditi",
+        "state_or_region": "Oyo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.71361,
+        "longitude": 3.91722
+    },
+    {
+        "geo_id": 2342883,
+        "name": "Ezza-Ohu",
+        "state_or_region": "Ebonyi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.4373,
+        "longitude": 8.0862
+    },
+    {
+        "geo_id": 2343093,
+        "name": "Esuk Oron",
+        "state_or_region": "Akwa Ibom",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.80293,
+        "longitude": 8.25341
+    },
+    {
+        "geo_id": 2343252,
+        "name": "Epe",
+        "state_or_region": "Lagos",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.58412,
+        "longitude": 3.98336
+    },
+    {
+        "geo_id": 2343270,
+        "name": "Enugu-Ukwu",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.17851,
+        "longitude": 7.01156
+    },
+    {
+        "geo_id": 2343273,
+        "name": "Enugu-Ezike",
+        "state_or_region": "Enugu",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.9825,
+        "longitude": 7.457
+    },
+    {
+        "geo_id": 2343279,
+        "name": "Enugu",
+        "state_or_region": "Enugu",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.4402,
+        "longitude": 7.4943
+    },
+    {
+        "geo_id": 2343299,
+        "name": "Emure-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.43614,
+        "longitude": 5.45932
+    },
+    {
+        "geo_id": 2343512,
+        "name": "Elele",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.1009,
+        "longitude": 6.81411
+    },
+    {
+        "geo_id": 2343641,
+        "name": "Ekpoma",
+        "state_or_region": "Edo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.74206,
+        "longitude": 6.139
+    },
+    {
+        "geo_id": 2343720,
+        "name": "Eket",
+        "state_or_region": "Akwa Ibom",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.64122,
+        "longitude": 7.92092
+    },
+    {
+        "geo_id": 2343784,
+        "name": "Ejigbo",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.9,
+        "longitude": 4.31667
+    },
+    {
+        "geo_id": 2343822,
+        "name": "Eha Amufu",
+        "state_or_region": "Enugu",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.65915,
+        "longitude": 7.75961
+    },
+    {
+        "geo_id": 2343943,
+        "name": "Egbe",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.21667,
+        "longitude": 5.51667
+    },
+    {
+        "geo_id": 2343983,
+        "name": "Effon Alaiye",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.65,
+        "longitude": 4.91667
+    },
+    {
+        "geo_id": 2343985,
+        "name": "Effium",
+        "state_or_region": "Ebonyi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.62917,
+        "longitude": 8.05925
+    },
+    {
+        "geo_id": 2344082,
+        "name": "Ebute Ikorodu",
+        "state_or_region": "Lagos",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.60086,
+        "longitude": 3.48818
+    },
+    {
+        "geo_id": 2344229,
+        "name": "Dutsen Wai",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.85009,
+        "longitude": 8.199
+    },
+    {
+        "geo_id": 2344245,
+        "name": "Dutse",
+        "state_or_region": "Jigawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.7594,
+        "longitude": 9.33921
+    },
+    {
+        "geo_id": 2344418,
+        "name": "Dukku",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.82306,
+        "longitude": 10.77167
+    },
+    {
+        "geo_id": 2344600,
+        "name": "Doma",
+        "state_or_region": "Nassarawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.38333,
+        "longitude": 8.35
+    },
+    {
+        "geo_id": 2344854,
+        "name": "Dikwa",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.02396,
+        "longitude": 13.91646
+    },
+    {
+        "geo_id": 2345029,
+        "name": "Deba",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.20864,
+        "longitude": 11.38586
+    },
+    {
+        "geo_id": 2345094,
+        "name": "Daura",
+        "state_or_region": "Katsina",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 13.03594,
+        "longitude": 8.31631
+    },
+    {
+        "geo_id": 2345096,
+        "name": "Daura",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.5538,
+        "longitude": 11.4085
+    },
+    {
+        "geo_id": 2345152,
+        "name": "Darazo",
+        "state_or_region": "Bauchi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.99375,
+        "longitude": 10.41179
+    },
+    {
+        "geo_id": 2345498,
+        "name": "Damboa",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.15604,
+        "longitude": 12.75758
+    },
+    {
+        "geo_id": 2345521,
+        "name": "Damaturu",
+        "state_or_region": "Yobe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.747,
+        "longitude": 11.9608
+    },
+    {
+        "geo_id": 2346229,
+        "name": "Calabar",
+        "state_or_region": "Cross River",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.9517,
+        "longitude": 8.322
+    },
+    {
+        "geo_id": 2346317,
+        "name": "Burutu",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.35091,
+        "longitude": 5.50758
+    },
+    {
+        "geo_id": 2346561,
+        "name": "Bukuru",
+        "state_or_region": "Plateau",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.8,
+        "longitude": 8.86667
+    },
+    {
+        "geo_id": 2346615,
+        "name": "Buguma",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.73407,
+        "longitude": 6.86345
+    },
+    {
+        "geo_id": 2346812,
+        "name": "Bonny",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.4522,
+        "longitude": 7.16808
+    },
+    {
+        "geo_id": 2346951,
+        "name": "Bode Saadu",
+        "state_or_region": "Kwara",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.93333,
+        "longitude": 4.78333
+    },
+    {
+        "geo_id": 2346995,
+        "name": "Biu",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.61285,
+        "longitude": 12.19458
+    },
+    {
+        "geo_id": 2347057,
+        "name": "Birnin Kudu",
+        "state_or_region": "Jigawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.44588,
+        "longitude": 9.4984
+    },
+    {
+        "geo_id": 2347059,
+        "name": "Birnin Kebbi",
+        "state_or_region": "Kebbi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.45389,
+        "longitude": 4.1975
+    },
+    {
+        "geo_id": 2347061,
+        "name": "Sofo-Birnin-Gwari",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.01537,
+        "longitude": 6.78036
+    },
+    {
+        "geo_id": 2347155,
+        "name": "Billiri",
+        "state_or_region": "Gombe",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.86472,
+        "longitude": 11.22528
+    },
+    {
+        "geo_id": 2347209,
+        "name": "Bida",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.08333,
+        "longitude": 6.01667
+    },
+    {
+        "geo_id": 2347283,
+        "name": "Benin City",
+        "state_or_region": "Edo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.33504,
+        "longitude": 5.62749
+    },
+    {
+        "geo_id": 2347303,
+        "name": "Bende",
+        "state_or_region": "Abia",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.55718,
+        "longitude": 7.63676
+    },
+    {
+        "geo_id": 2347330,
+        "name": "Beli",
+        "state_or_region": "Taraba",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.85868,
+        "longitude": 10.97187
+    },
+    {
+        "geo_id": 2347470,
+        "name": "Bauchi",
+        "state_or_region": "Bauchi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.31344,
+        "longitude": 9.84327
+    },
+    {
+        "geo_id": 2347592,
+        "name": "Baro",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.6,
+        "longitude": 6.41667
+    },
+    {
+        "geo_id": 2347954,
+        "name": "Bama",
+        "state_or_region": "Borno",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.5221,
+        "longitude": 13.68558
+    },
+    {
+        "geo_id": 2348395,
+        "name": "Badagry",
+        "state_or_region": "Lagos",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.41667,
+        "longitude": 2.88333
+    },
+    {
+        "geo_id": 2348507,
+        "name": "Babana",
+        "state_or_region": "Niger",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.42949,
+        "longitude": 3.81495
+    },
+    {
+        "geo_id": 2348595,
+        "name": "Azare",
+        "state_or_region": "Bauchi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 11.6765,
+        "longitude": 10.1948
+    },
+    {
+        "geo_id": 2348773,
+        "name": "Awka",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.21009,
+        "longitude": 7.07411
+    },
+    {
+        "geo_id": 2348783,
+        "name": "Awgu",
+        "state_or_region": "Enugu",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.0742,
+        "longitude": 7.4786
+    },
+    {
+        "geo_id": 2348892,
+        "name": "Auchi",
+        "state_or_region": "Edo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.06667,
+        "longitude": 6.26667
+    },
+    {
+        "geo_id": 2349276,
+        "name": "Asaba",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.20064,
+        "longitude": 6.73384
+    },
+    {
+        "geo_id": 2349431,
+        "name": "Argungu",
+        "state_or_region": "Kebbi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 12.74334,
+        "longitude": 4.52687
+    },
+    {
+        "geo_id": 2349529,
+        "name": "Aramoko-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.70927,
+        "longitude": 5.04474
+    },
+    {
+        "geo_id": 2349558,
+        "name": "Apomu",
+        "state_or_region": "Osun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.33333,
+        "longitude": 4.18333
+    },
+    {
+        "geo_id": 2349951,
+        "name": "Anchau",
+        "state_or_region": "Kaduna",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 10.95967,
+        "longitude": 8.39155
+    },
+    {
+        "geo_id": 2350249,
+        "name": "Amaigbo",
+        "state_or_region": "Abia",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.78917,
+        "longitude": 7.83829
+    },
+    {
+        "geo_id": 2350806,
+        "name": "Akwanga",
+        "state_or_region": "Nassarawa",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 8.91667,
+        "longitude": 8.38333
+    },
+    {
+        "geo_id": 2350841,
+        "name": "Akure",
+        "state_or_region": "Ondo",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.25256,
+        "longitude": 5.19312
+    },
+    {
+        "geo_id": 2350886,
+        "name": "Aku",
+        "state_or_region": "Enugu",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.7081,
+        "longitude": 7.3167
+    },
+    {
+        "geo_id": 2351470,
+        "name": "Ajaokuta",
+        "state_or_region": "Kogi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.56229,
+        "longitude": 6.65497
+    },
+    {
+        "geo_id": 2351740,
+        "name": "Agulu",
+        "state_or_region": "Anambra",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.11,
+        "longitude": 7.0724
+    },
+    {
+        "geo_id": 2351979,
+        "name": "Agbor",
+        "state_or_region": "Delta",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.25183,
+        "longitude": 6.19337
+    },
+    {
+        "geo_id": 2352250,
+        "name": "Afikpo",
+        "state_or_region": "Ebonyi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.89312,
+        "longitude": 7.93735
+    },
+    {
+        "geo_id": 2352356,
+        "name": "Ado Odo",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.6,
+        "longitude": 2.93333
+    },
+    {
+        "geo_id": 2352379,
+        "name": "Ado-Ekiti",
+        "state_or_region": "Ekiti",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.621,
+        "longitude": 5.2215
+    },
+    {
+        "geo_id": 2352778,
+        "name": "Abuja",
+        "state_or_region": "Abuja Federal Capital Territory",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 9.05735,
+        "longitude": 7.48976
+    },
+    {
+        "geo_id": 2352947,
+        "name": "Abeokuta",
+        "state_or_region": "Ogun",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 7.15,
+        "longitude": 3.35
+    },
+    {
+        "geo_id": 2353099,
+        "name": "Abakaliki",
+        "state_or_region": "Ebonyi",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 6.31625,
+        "longitude": 8.11691
+    },
+    {
+        "geo_id": 2353151,
+        "name": "Aba",
+        "state_or_region": "Abia",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 5.10658,
+        "longitude": 7.36667
+    },
+    {
+        "geo_id": 2591159,
+        "name": "Degema Hulk",
+        "state_or_region": "Rivers",
+        "country": {
+            "code": "NG",
+            "name": "Nigeria"
+        },
+        "latitude": 4.76254,
+        "longitude": 6.752
+    }
+]
