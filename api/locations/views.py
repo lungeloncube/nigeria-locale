@@ -187,3 +187,35 @@ class GetRegion(Resource):
         else:
             return {"message": "Please provide an API key"}, 400
 
+
+@locations_namespace.route('/region/<name>')
+class GetPlaceByAddress(Resource):
+    def get(self, name):
+        if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
+            api_key = request.headers.get('x-api-key')
+            user = User.query.filter_by(api_key=api_key).first()
+
+            if user is not None:
+                # Transform json input to python objects
+                with open('static/nr_regions.json', 'r') as f:
+                    data = json.load(f)
+                with open('static/cities.json', 'r') as g:
+                    cities = json.load(g)
+
+                    # Filter python objects with list comprehensions
+                    output_dict = [x for x in data if x['name'] == name]
+                    # region_complete = [x for x in cities if x['state_or_region'] in x == output_dict[0]["name"]]
+                    new_dict = []
+                    if output_dict:
+                        for x in output_dict[0]["states"]:
+
+                            for y in cities:
+                                if x == y["state_or_region"]:
+                                    new_dict.append(y)
+
+                    return new_dict
+            else:
+                return {"message": "Please provide a valid key"}, 400
+
+        else:
+            return {"message": "Please provide an API key"}, 400
