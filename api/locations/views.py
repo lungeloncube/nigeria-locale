@@ -16,12 +16,26 @@ class GetAllLocations(Resource):
         pass
 
 
-@locations_namespace.route('/lgas/all')
+@locations_namespace.route('/lgas/<name>')
 class GetAllLgas(Resource):
     """Gets all the lags locations"""
 
-    def get(self):
-        pass
+    def get(self, name):
+        if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
+            api_key = request.headers.get('x-api-key')
+            user = User.query.filter_by(api_key=api_key).first()
+
+            if user is not None:
+                with open('static/clean_lgas.json', 'r') as f:
+                    data = json.load(f)
+                    output_dict = [x for x in data if x['admin2Name'] == name]
+
+                    return output_dict
+            else:
+                return {"message": "Please provide a valid key"}, 400
+
+        else:
+            return {"message": "Please provide an API key"}, 400
 
 
 @locations_namespace.route('/lgas')
