@@ -216,7 +216,7 @@ class GetRegion(Resource):
 
 
 @locations_namespace.route('/region/<name>')
-class GetPlaceByAddress(Resource):
+class GetRegionByName(Resource):
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
