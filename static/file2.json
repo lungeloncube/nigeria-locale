@@ -1,0 +1,6194 @@
+[
+  {
+    "admin2Name": "Aba North",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.401109326000039,
+      5.08194751800005
+    ]
+  },
+  {
+    "admin2Name": "Aba South",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.387494576000051,
+      5.082748007000021
+    ]
+  },
+  {
+    "admin2Name": "Abaji",
+    "admin1Name": "Federal Capital Territory",
+    "coordinates": [
+      7.045871656000031,
+      9.230500929000073
+    ]
+  },
+  {
+    "admin2Name": "Abak",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.811244428000066,
+      5.09452652300007
+    ]
+  },
+  {
+    "admin2Name": "Abakaliki",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.410900010000034,
+      6.28211638700003
+    ]
+  },
+  {
+    "admin2Name": "Abeokuta North",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.143902570000023,
+      7.390937708000024
+    ]
+  },
+  {
+    "admin2Name": "Abeokuta South",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.399307195000063,
+      7.152992769000036
+    ]
+  },
+  {
+    "admin2Name": "Abi",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.153281890000073,
+      5.967316194000034
+    ]
+  },
+  {
+    "admin2Name": "Aboh-Mbaise",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.321908546000031,
+      5.404929589000062
+    ]
+  },
+  {
+    "admin2Name": "Abua/Odual",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.669201866000037,
+      4.905181887000026
+    ]
+  },
+  {
+    "admin2Name": "Abuja Municipal",
+    "admin1Name": "Federal Capital Territory",
+    "coordinates": [
+      7.306005901000049,
+      9.140310486000033
+    ]
+  },
+  {
+    "admin2Name": "Adavi",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.69229467100007,
+      7.78146012600007
+    ]
+  },
+  {
+    "admin2Name": "Ado",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.10217592600003,
+      6.988883857000076
+    ]
+  },
+  {
+    "admin2Name": "Ado-Odo/Ota",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.287864544000058,
+      6.687031433000072
+    ]
+  },
+  {
+    "admin2Name": "Ado Ekiti",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.378311996000036,
+      7.665960220000045
+    ]
+  },
+  {
+    "admin2Name": "Afijio",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.020828842000071,
+      7.678366419000042
+    ]
+  },
+  {
+    "admin2Name": "Afikpo North",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      7.979246886000055,
+      5.970290144000046
+    ]
+  },
+  {
+    "admin2Name": "Afikpo South",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      7.868016045000047,
+      5.951814142000046
+    ]
+  },
+  {
+    "admin2Name": "Agaie",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.526823941000032,
+      9.229965097000047
+    ]
+  },
+  {
+    "admin2Name": "Agatu",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.062916116000054,
+      7.926988813000037
+    ]
+  },
+  {
+    "admin2Name": "Agege",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.335250491000068,
+      6.624185445000023
+    ]
+  },
+  {
+    "admin2Name": "Aguata",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.146545872000047,
+      5.988787572000035
+    ]
+  },
+  {
+    "admin2Name": "Agwara",
+    "admin1Name": "Niger",
+    "coordinates": [
+      4.724556794000023,
+      10.906424125000058
+    ]
+  },
+  {
+    "admin2Name": "Ahiazu-Mbaise",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.308937683000067,
+      5.617926096000076
+    ]
+  },
+  {
+    "admin2Name": "Ahoada East",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.717530319000048,
+      5.182233936000046
+    ]
+  },
+  {
+    "admin2Name": "Ahoada West",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.629775025000072,
+      5.190967988000068
+    ]
+  },
+  {
+    "admin2Name": "Aiyedade",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.365075514000068,
+      7.059701074000031
+    ]
+  },
+  {
+    "admin2Name": "Aiyedire",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.350677472000029,
+      7.652536308000037
+    ]
+  },
+  {
+    "admin2Name": "Aiyekire (Gbonyin)",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.554645261000076,
+      7.691915771000026
+    ]
+  },
+  {
+    "admin2Name": "Ajaokuta",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.755963742000063,
+      7.73560414700006
+    ]
+  },
+  {
+    "admin2Name": "Ajeromi-Ifelodun",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.338827388000027,
+      6.436401229000069
+    ]
+  },
+  {
+    "admin2Name": "Ajingi",
+    "admin1Name": "Kano",
+    "coordinates": [
+      9.251157976000059,
+      12.001310400000023
+    ]
+  },
+  {
+    "admin2Name": "Akamkpa",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.480934287000025,
+      5.761620968000045
+    ]
+  },
+  {
+    "admin2Name": "Akinyele",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.020828842000071,
+      7.678366419000042
+    ]
+  },
+  {
+    "admin2Name": "Akko",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      10.885161294000056,
+      10.398648747000038
+    ]
+  },
+  {
+    "admin2Name": "Akoko-Edo",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.126644027000054,
+      7.572976230000052
+    ]
+  },
+  {
+    "admin2Name": "Akoko North East",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      6.004125679000026,
+      7.529235776000064
+    ]
+  },
+  {
+    "admin2Name": "Akoko North West",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.940000477000069,
+      7.645110143000068
+    ]
+  },
+  {
+    "admin2Name": "Akoko South East",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.957695131000037,
+      7.344322314000067
+    ]
+  },
+  {
+    "admin2Name": "Akoko South West",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.827208976000065,
+      7.496734239000034
+    ]
+  },
+  {
+    "admin2Name": "Akuku Toru",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.762456996000026,
+      4.760527133000039
+    ]
+  },
+  {
+    "admin2Name": "Akure North",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.388226154000051,
+      7.283186924000063
+    ]
+  },
+  {
+    "admin2Name": "Akure South",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.191441935000057,
+      7.327134983000064
+    ]
+  },
+  {
+    "admin2Name": "Akwanga",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      8.423004132000074,
+      9.135594974000071
+    ]
+  },
+  {
+    "admin2Name": "Albasu",
+    "admin1Name": "Kano",
+    "coordinates": [
+      9.362553578000075,
+      11.564279386000067
+    ]
+  },
+  {
+    "admin2Name": "Aleiro",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.472168337000028,
+      12.414870844000063
+    ]
+  },
+  {
+    "admin2Name": "Alimosho",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.307191385000067,
+      6.647376989000065
+    ]
+  },
+  {
+    "admin2Name": "Alkaleri",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.831428979000066,
+      10.198451128000045
+    ]
+  },
+  {
+    "admin2Name": "Amuwo-Odofin",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.316458920000059,
+      6.459038160000034
+    ]
+  },
+  {
+    "admin2Name": "Anambra East",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.981354696000039,
+      6.416490493000026
+    ]
+  },
+  {
+    "admin2Name": "Anambra West",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.932072656000059,
+      6.767693572000042
+    ]
+  },
+  {
+    "admin2Name": "Anaocha",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.039525034000064,
+      6.158321351000041
+    ]
+  },
+  {
+    "admin2Name": "Andoni",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.458186950000027,
+      4.571283486000027
+    ]
+  },
+  {
+    "admin2Name": "Aninri",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.668315227000051,
+      6.060618839000028
+    ]
+  },
+  {
+    "admin2Name": "Aniocha North",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.575679900000068,
+      6.298266255000044
+    ]
+  },
+  {
+    "admin2Name": "Aniocha South",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.575679900000068,
+      6.298266255000044
+    ]
+  },
+  {
+    "admin2Name": "Anka",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.131456499000024,
+      12.134790580000072
+    ]
+  },
+  {
+    "admin2Name": "Ankpa",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.753594530000044,
+      7.688056807000066
+    ]
+  },
+  {
+    "admin2Name": "Apa",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.065361624000047,
+      7.732620590000067
+    ]
+  },
+  {
+    "admin2Name": "Apapa",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.365058359000045,
+      6.475946754000063
+    ]
+  },
+  {
+    "admin2Name": "Ardo-Kola",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.218346836000023,
+      9.015662891000034
+    ]
+  },
+  {
+    "admin2Name": "Arewa-Dandi",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.522875430000056,
+      13.14050549500007
+    ]
+  },
+  {
+    "admin2Name": "Argungu",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.773120192000022,
+      12.724463263000075
+    ]
+  },
+  {
+    "admin2Name": "Arochukwu",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.90457888800006,
+      5.568675557000063
+    ]
+  },
+  {
+    "admin2Name": "Asa",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.479101146000062,
+      8.561439535000034
+    ]
+  },
+  {
+    "admin2Name": "Asari-Toru",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.887269007000043,
+      4.797744733000059
+    ]
+  },
+  {
+    "admin2Name": "Atakumosa East",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.834250885000074,
+      7.374184176000028
+    ]
+  },
+  {
+    "admin2Name": "Atakumosa West",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.679073883000058,
+      7.671786181000073
+    ]
+  },
+  {
+    "admin2Name": "Atiba",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.963522906000037,
+      8.614751883000054
+    ]
+  },
+  {
+    "admin2Name": "Atigbo",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.781291973000066,
+      8.45526398900006
+    ]
+  },
+  {
+    "admin2Name": "Augie",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.706336357000055,
+      13.083640211000045
+    ]
+  },
+  {
+    "admin2Name": "Auyo",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.059639471000025,
+      12.440587813000036
+    ]
+  },
+  {
+    "admin2Name": "Awe",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      9.273347147000038,
+      8.463870887000041
+    ]
+  },
+  {
+    "admin2Name": "Awgu",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.512400503000038,
+      6.231348006000076
+    ]
+  },
+  {
+    "admin2Name": "Awka North",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.027468291000048,
+      6.44356334500003
+    ]
+  },
+  {
+    "admin2Name": "Awka South",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.147720337000067,
+      6.242456490000052
+    ]
+  },
+  {
+    "admin2Name": "Ayamelum",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.049659200000065,
+      6.474356678000049
+    ]
+  },
+  {
+    "admin2Name": "Babura",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.037084566000033,
+      12.81449026000007
+    ]
+  },
+  {
+    "admin2Name": "Badagry",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.103946204000067,
+      6.499459311000066
+    ]
+  },
+  {
+    "admin2Name": "Bade",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.05663904000005,
+      12.878349223000043
+    ]
+  },
+  {
+    "admin2Name": "Bagudo",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      3.835881663000066,
+      11.569758466000053
+    ]
+  },
+  {
+    "admin2Name": "Bagwai",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.200233775000072,
+      12.171026791000031
+    ]
+  },
+  {
+    "admin2Name": "Akpabuyo",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.693478758000026,
+      4.995327
+    ]
+  },
+  {
+    "admin2Name": "Bakori",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.404046600000072,
+      11.796404818000042
+    ]
+  },
+  {
+    "admin2Name": "Bakura",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.045502086000056,
+      12.754116163000049
+    ]
+  },
+  {
+    "admin2Name": "Balanga",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.828603850000036,
+      10.05387802000007
+    ]
+  },
+  {
+    "admin2Name": "Bali",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.779806061000045,
+      8.609372136000047
+    ]
+  },
+  {
+    "admin2Name": "Barikin Ladi",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.08714408800006,
+      9.698850660000062
+    ]
+  },
+  {
+    "admin2Name": "Baruten",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      3.823319255000058,
+      10.054305857000031
+    ]
+  },
+  {
+    "admin2Name": "Bassa",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.445786741000063,
+      8.044860924000034
+    ]
+  },
+  {
+    "admin2Name": "Bassa",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      8.823521653000057,
+      10.383281917000033
+    ]
+  },
+  {
+    "admin2Name": "Batagarawa",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.570686067000054,
+      12.732950457000072
+    ]
+  },
+  {
+    "admin2Name": "Batsari",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.405379899000025,
+      12.898166899000046
+    ]
+  },
+  {
+    "admin2Name": "Bauchi",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.214344479000033,
+      10.478918019000048
+    ]
+  },
+  {
+    "admin2Name": "Baure",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      9.045207744000038,
+      12.837206055000024
+    ]
+  },
+  {
+    "admin2Name": "Bebeji",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.318352987000026,
+      11.714462294000043
+    ]
+  },
+  {
+    "admin2Name": "Bekwara",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.942987463000065,
+      6.810498690000031
+    ]
+  },
+  {
+    "admin2Name": "Bende",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.683954931000073,
+      5.822346219000053
+    ]
+  },
+  {
+    "admin2Name": "Biase",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.049611,
+      5.799735080000062
+    ]
+  },
+  {
+    "admin2Name": "Bichi",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.436825462000058,
+      12.339648429000022
+    ]
+  },
+  {
+    "admin2Name": "Bida",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.05498878800006,
+      9.111719024000024
+    ]
+  },
+  {
+    "admin2Name": "Billiri",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.274492421000048,
+      10.002017186000046
+    ]
+  },
+  {
+    "admin2Name": "Bindawa",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.970837923000033,
+      12.74289292900005
+    ]
+  },
+  {
+    "admin2Name": "Binji",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.058201634000056,
+      13.166690366000068
+    ]
+  },
+  {
+    "admin2Name": "Biriniwa",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.25479758800003,
+      13.012141113000041
+    ]
+  },
+  {
+    "admin2Name": "Birni Kudu",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.640267473000051,
+      11.356820087000074
+    ]
+  },
+  {
+    "admin2Name": "Birnin-Gwari",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.217633778000049,
+      11.170467622000047
+    ]
+  },
+  {
+    "admin2Name": "Birnin Kebbi",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.445171335000055,
+      12.561643893000053
+    ]
+  },
+  {
+    "admin2Name": "Birnin Magaji",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      7.051230394000072,
+      12.589386940000054
+    ]
+  },
+  {
+    "admin2Name": "Bodinga",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.190436854000041,
+      12.946481643000027
+    ]
+  },
+  {
+    "admin2Name": "Bogoro",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.796740686000021,
+      9.571181239000055
+    ]
+  },
+  {
+    "admin2Name": "Boki",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.956610107000074,
+      6.50864217000003
+    ]
+  },
+  {
+    "admin2Name": "Bokkos",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.104999699000075,
+      9.071070407000036
+    ]
+  },
+  {
+    "admin2Name": "Boluwaduro",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.833099802000049,
+      7.875925410000036
+    ]
+  },
+  {
+    "admin2Name": "Bomadi",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.742336272000045,
+      5.268263768000054
+    ]
+  },
+  {
+    "admin2Name": "Bonny",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.31535486000007,
+      4.597617165000031
+    ]
+  },
+  {
+    "admin2Name": "Borgu",
+    "admin1Name": "Niger",
+    "coordinates": [
+      4.335703885000044,
+      10.915319260000047
+    ]
+  },
+  {
+    "admin2Name": "Boripe",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.732655193000028,
+      7.952502106000054
+    ]
+  },
+  {
+    "admin2Name": "Bosso",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.648762681000051,
+      9.535008319000042
+    ]
+  },
+  {
+    "admin2Name": "Brass",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.276072025000076,
+      4.375934121000057
+    ]
+  },
+  {
+    "admin2Name": "Buji",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.820613569000045,
+      11.688444509000021
+    ]
+  },
+  {
+    "admin2Name": "Bukkuyum",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      5.730214786000033,
+      12.286021380000022
+    ]
+  },
+  {
+    "admin2Name": "Bungudu",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.833372429000065,
+      12.280619652000041
+    ]
+  },
+  {
+    "admin2Name": "Bunkure",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.636704348000023,
+      11.723569691000023
+    ]
+  },
+  {
+    "admin2Name": "Bunza",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      3.867021790000024,
+      12.41353354000006
+    ]
+  },
+  {
+    "admin2Name": "Bursari",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.723132256000042,
+      12.859367313000064
+    ]
+  },
+  {
+    "admin2Name": "Buruku",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.043637488000059,
+      7.601304508000055
+    ]
+  },
+  {
+    "admin2Name": "Burutu",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.707898982000074,
+      5.410940856000025
+    ]
+  },
+  {
+    "admin2Name": "Bwari",
+    "admin1Name": "Federal Capital Territory",
+    "coordinates": [
+      7.729873720000057,
+      9.331881549000059
+    ]
+  },
+  {
+    "admin2Name": "Calabar-Municipal",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.400836104000064,
+      5.092072990000077
+    ]
+  },
+  {
+    "admin2Name": "Calabar South",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.355756521000046,
+      4.939916175000064
+    ]
+  },
+  {
+    "admin2Name": "Chanchaga",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.559460090000073,
+      9.658105793000061
+    ]
+  },
+  {
+    "admin2Name": "Charanchi",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.794117867000068,
+      12.70089383100003
+    ]
+  },
+  {
+    "admin2Name": "Chikun",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.153650248000076,
+      10.647837072000073
+    ]
+  },
+  {
+    "admin2Name": "Dala",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.466895789000034,
+      12.063112239000077
+    ]
+  },
+  {
+    "admin2Name": "Damaturu",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      12.255372213000044,
+      12.034514107000064
+    ]
+  },
+  {
+    "admin2Name": "Damban",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.929660099000046,
+      11.516030365000063
+    ]
+  },
+  {
+    "admin2Name": "Dambatta",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.648220847000061,
+      12.595221779000042
+    ]
+  },
+  {
+    "admin2Name": "Dan Musa",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.190081791000068,
+      12.348307259000023
+    ]
+  },
+  {
+    "admin2Name": "Dandi",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      3.938027636000072,
+      11.988734430000022
+    ]
+  },
+  {
+    "admin2Name": "Dandume",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.170854986000052,
+      11.56968007000006
+    ]
+  },
+  {
+    "admin2Name": "Dange-Shuni",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.493614525000055,
+      12.967807107000056
+    ]
+  },
+  {
+    "admin2Name": "Danja",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.513404800000046,
+      11.449110113000074
+    ]
+  },
+  {
+    "admin2Name": "Darazo",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.92981746700002,
+      11.44328570700003
+    ]
+  },
+  {
+    "admin2Name": "Dass",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.352772618000074,
+      9.87659711300006
+    ]
+  },
+  {
+    "admin2Name": "Daura",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.355589014000032,
+      13.002581500000076
+    ]
+  },
+  {
+    "admin2Name": "Dawakin Kudu",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.832627180000031,
+      11.797960145000047
+    ]
+  },
+  {
+    "admin2Name": "Dawakin Tofa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.517902222000032,
+      12.25465967100007
+    ]
+  },
+  {
+    "admin2Name": "Degema",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.783440441000039,
+      4.802381327000035
+    ]
+  },
+  {
+    "admin2Name": "Dekina",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.482743104000065,
+      7.520640902000025
+    ]
+  },
+  {
+    "admin2Name": "Demsa",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.27975578400003,
+      9.617096727000046
+    ]
+  },
+  {
+    "admin2Name": "Doguwa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.788697313000057,
+      10.942250513000033
+    ]
+  },
+  {
+    "admin2Name": "Doma",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      8.443530227000053,
+      8.425130882000076
+    ]
+  },
+  {
+    "admin2Name": "Donga",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.342407441000034,
+      7.959485654000048
+    ]
+  },
+  {
+    "admin2Name": "Dukku",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.10219954300004,
+      10.903690614000027
+    ]
+  },
+  {
+    "admin2Name": "Njikoka",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.018863337000028,
+      6.238191193000034
+    ]
+  },
+  {
+    "admin2Name": "Dutse",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.318601820000026,
+      12.055549732000031
+    ]
+  },
+  {
+    "admin2Name": "Dutsi",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.171156741000061,
+      13.00415266500005
+    ]
+  },
+  {
+    "admin2Name": "Dutsin-Ma",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.62810674900004,
+      12.432084303000067
+    ]
+  },
+  {
+    "admin2Name": "Eastern Obolo",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.81402588900005,
+      4.555246835000048
+    ]
+  },
+  {
+    "admin2Name": "Ebonyi",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.24130664300003,
+      6.791225955000073
+    ]
+  },
+  {
+    "admin2Name": "Edati",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.826130919000036,
+      9.155597199000056
+    ]
+  },
+  {
+    "admin2Name": "Ede North",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.56592041600004,
+      7.695727091000037
+    ]
+  },
+  {
+    "admin2Name": "Ede South",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.56592041600004,
+      7.695727091000037
+    ]
+  },
+  {
+    "admin2Name": "Edu",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      5.525417717000039,
+      8.940100508000057
+    ]
+  },
+  {
+    "admin2Name": "Efon",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      4.906387404000043,
+      7.562844340000026
+    ]
+  },
+  {
+    "admin2Name": "Egbado North",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.122822043000042,
+      7.070918099000039
+    ]
+  },
+  {
+    "admin2Name": "Egbado South",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.061457399000062,
+      6.937674548000075
+    ]
+  },
+  {
+    "admin2Name": "Egbeda",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.148307190000025,
+      7.458775323000054
+    ]
+  },
+  {
+    "admin2Name": "Egbedore",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.422693161000041,
+      7.886240539000028
+    ]
+  },
+  {
+    "admin2Name": "Egor",
+    "admin1Name": "Edo",
+    "coordinates": [
+      5.644552795000038,
+      6.374224009000045
+    ]
+  },
+  {
+    "admin2Name": "Ehime-Mbano",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.361155975000031,
+      5.71431162600004
+    ]
+  },
+  {
+    "admin2Name": "Ejigbo",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.36564979000002,
+      7.859468261000075
+    ]
+  },
+  {
+    "admin2Name": "Ekeremor",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      5.974926594000067,
+      5.137524633000055
+    ]
+  },
+  {
+    "admin2Name": "Eket",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.022169261000045,
+      4.69251298100005
+    ]
+  },
+  {
+    "admin2Name": "Ekiti",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      5.497963823000021,
+      8.11066446600006
+    ]
+  },
+  {
+    "admin2Name": "Ekiti East",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.738130657000056,
+      7.819180466000034
+    ]
+  },
+  {
+    "admin2Name": "Ekiti South West",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.106438580000031,
+      7.622524842000075
+    ]
+  },
+  {
+    "admin2Name": "Ekiti West",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.113748672000042,
+      7.693432881000035
+    ]
+  },
+  {
+    "admin2Name": "Ekwusigo",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.89672089000004,
+      6.073711830000036
+    ]
+  },
+  {
+    "admin2Name": "Eleme",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.18175231500004,
+      4.838303095000072
+    ]
+  },
+  {
+    "admin2Name": "Emohua",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.794449860000043,
+      5.27726984100002
+    ]
+  },
+  {
+    "admin2Name": "Emure",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.609946444000059,
+      7.485031837000065
+    ]
+  },
+  {
+    "admin2Name": "Enugu East",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.653496555000061,
+      6.601598248000073
+    ]
+  },
+  {
+    "admin2Name": "Enugu North",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.630680097000038,
+      6.448190685000043
+    ]
+  },
+  {
+    "admin2Name": "Enugu South",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.581700372000057,
+      6.397293716000036
+    ]
+  },
+  {
+    "admin2Name": "Epe",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.916836717000024,
+      6.680703983000058
+    ]
+  },
+  {
+    "admin2Name": "Esan Central",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.400554736000061,
+      6.813662587000067
+    ]
+  },
+  {
+    "admin2Name": "Esan North East",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.530869945000063,
+      6.793375991000062
+    ]
+  },
+  {
+    "admin2Name": "Esan South East",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.530869945000063,
+      6.793375991000062
+    ]
+  },
+  {
+    "admin2Name": "Esan West",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.250658026000053,
+      6.83628688500005
+    ]
+  },
+  {
+    "admin2Name": "Ese-Odo",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.015618871000072,
+      6.292353136000031
+    ]
+  },
+  {
+    "admin2Name": "Esit - Eket",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.092146095000032,
+      4.690193169000054
+    ]
+  },
+  {
+    "admin2Name": "Essien Udim",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.764188617000059,
+      5.149259074000042
+    ]
+  },
+  {
+    "admin2Name": "Etche",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.242135034000057,
+      5.195867014000044
+    ]
+  },
+  {
+    "admin2Name": "Ethiope East",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.162654908000036,
+      5.740603924000027
+    ]
+  },
+  {
+    "admin2Name": "Ethiope West",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.76417742700005,
+      5.99781418200007
+    ]
+  },
+  {
+    "admin2Name": "Eti-Osa",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.629457022000054,
+      6.517911843000036
+    ]
+  },
+  {
+    "admin2Name": "Etim Ekpo",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.680966636000051,
+      5.041913339000075
+    ]
+  },
+  {
+    "admin2Name": "Etinan",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.882976732000031,
+      4.793542861000049
+    ]
+  },
+  {
+    "admin2Name": "Etsako Central",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.679260241000065,
+      6.972002420000024
+    ]
+  },
+  {
+    "admin2Name": "Etsako East",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.485763157000065,
+      7.341996211000037
+    ]
+  },
+  {
+    "admin2Name": "Etsako West",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.414650889000029,
+      7.166708031000042
+    ]
+  },
+  {
+    "admin2Name": "Etung",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.989945219000049,
+      5.951848958000028
+    ]
+  },
+  {
+    "admin2Name": "Ewekoro",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.301615196000057,
+      7.117555869000057
+    ]
+  },
+  {
+    "admin2Name": "Ezeagu",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.245460927000067,
+      6.275623299000074
+    ]
+  },
+  {
+    "admin2Name": "Ezinihitte",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.388032556000041,
+      5.510386898000036
+    ]
+  },
+  {
+    "admin2Name": "Ezza North",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.027935211000056,
+      6.355568927000036
+    ]
+  },
+  {
+    "admin2Name": "Ezza South",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.121980811000071,
+      6.184223148000058
+    ]
+  },
+  {
+    "admin2Name": "Fagge",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.55185522000005,
+      12.050348908000046
+    ]
+  },
+  {
+    "admin2Name": "Fakai",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      5.015673188000051,
+      11.728944245000037
+    ]
+  },
+  {
+    "admin2Name": "Faskari",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.288977109000029,
+      11.84247020600003
+    ]
+  },
+  {
+    "admin2Name": "Fika",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.267074001000026,
+      11.662743583000065
+    ]
+  },
+  {
+    "admin2Name": "Fufore",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.08482483000006,
+      9.61996864200006
+    ]
+  },
+  {
+    "admin2Name": "Funakaye",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.400138878000064,
+      11.089087412000026
+    ]
+  },
+  {
+    "admin2Name": "Fune",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.732767984000077,
+      11.974364010000045
+    ]
+  },
+  {
+    "admin2Name": "Funtua",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.331445444000053,
+      11.599211024000056
+    ]
+  },
+  {
+    "admin2Name": "Gabasawa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      9.04383942800007,
+      12.079520311000067
+    ]
+  },
+  {
+    "admin2Name": "Gada",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      6.04369057100007,
+      13.697195616000045
+    ]
+  },
+  {
+    "admin2Name": "Gagarawa",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.690529258000026,
+      12.551608431000034
+    ]
+  },
+  {
+    "admin2Name": "Gamawa",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.759832844000073,
+      12.36964935800006
+    ]
+  },
+  {
+    "admin2Name": "Ganjuwa",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.228605266000045,
+      11.10078989300007
+    ]
+  },
+  {
+    "admin2Name": "Ganye",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.274232150000046,
+      8.445372655000028
+    ]
+  },
+  {
+    "admin2Name": "Garki",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.028389306000065,
+      12.598680495000053
+    ]
+  },
+  {
+    "admin2Name": "Garko",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.95395647500004,
+      11.60571956900003
+    ]
+  },
+  {
+    "admin2Name": "Garum Mallam",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.47226712500003,
+      11.703570462000073
+    ]
+  },
+  {
+    "admin2Name": "Gashaka",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.341521140000054,
+      8.01866827400005
+    ]
+  },
+  {
+    "admin2Name": "Gassol",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.110397297000077,
+      8.631417343000066
+    ]
+  },
+  {
+    "admin2Name": "Gaya",
+    "admin1Name": "Kano",
+    "coordinates": [
+      9.234156624000036,
+      11.89229014600005
+    ]
+  },
+  {
+    "admin2Name": "Gbako",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.220836187000032,
+      9.526764830000047
+    ]
+  },
+  {
+    "admin2Name": "Gboko",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.937168797000027,
+      7.513230573000044
+    ]
+  },
+  {
+    "admin2Name": "Geidam",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      12.477544796000075,
+      12.717757619000054
+    ]
+  },
+  {
+    "admin2Name": "Gezawa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.83727028100003,
+      11.979807094000023
+    ]
+  },
+  {
+    "admin2Name": "Giade",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.356260066000061,
+      11.510061818000054
+    ]
+  },
+  {
+    "admin2Name": "Gombi",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.612779097000043,
+      10.448620111000025
+    ]
+  },
+  {
+    "admin2Name": "Giwa",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.629555874000062,
+      11.283232609000038
+    ]
+  },
+  {
+    "admin2Name": "Gokana",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.31535486000007,
+      4.597617165000031
+    ]
+  },
+  {
+    "admin2Name": "Gombe",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.164293734000069,
+      10.320766820000074
+    ]
+  },
+  {
+    "admin2Name": "Girei",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.691948332000038,
+      9.61159219600006
+    ]
+  },
+  {
+    "admin2Name": "Goronyo",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.915075434000073,
+      13.573113973000034
+    ]
+  },
+  {
+    "admin2Name": "Gudu",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      4.720144727000047,
+      13.302420643000062
+    ]
+  },
+  {
+    "admin2Name": "Gujba",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      12.301113649000058,
+      11.644909419000044
+    ]
+  },
+  {
+    "admin2Name": "Gulani",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      12.007828950000032,
+      11.03395106000005
+    ]
+  },
+  {
+    "admin2Name": "Guma",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.056972797000071,
+      8.07764538400005
+    ]
+  },
+  {
+    "admin2Name": "Gumel",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.505151785000066,
+      12.609246272000064
+    ]
+  },
+  {
+    "admin2Name": "Gummi",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      5.292940207000072,
+      12.27855138600006
+    ]
+  },
+  {
+    "admin2Name": "Gurara",
+    "admin1Name": "Niger",
+    "coordinates": [
+      7.262890080000034,
+      9.354562445000056
+    ]
+  },
+  {
+    "admin2Name": "Guri",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.50891946300004,
+      12.82494001200007
+    ]
+  },
+  {
+    "admin2Name": "Gusau",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      7.104723569000043,
+      12.295072580000067
+    ]
+  },
+  {
+    "admin2Name": "Guyuk",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      11.999241816000051,
+      10.024606748000053
+    ]
+  },
+  {
+    "admin2Name": "Gwadabawa",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.528517328000021,
+      13.557349957000042
+    ]
+  },
+  {
+    "admin2Name": "Gwagwalada",
+    "admin1Name": "Federal Capital Territory",
+    "coordinates": [
+      7.156177129000071,
+      9.146846621000066
+    ]
+  },
+  {
+    "admin2Name": "Gwale",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.508244921000028,
+      12.000528215000031
+    ]
+  },
+  {
+    "admin2Name": "Gwandu",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.567024917000026,
+      12.31369449600004
+    ]
+  },
+  {
+    "admin2Name": "Gwaram",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.142108102000066,
+      11.239958588000036
+    ]
+  },
+  {
+    "admin2Name": "Gwarzo",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.010572181000043,
+      11.963594131000036
+    ]
+  },
+  {
+    "admin2Name": "Gwer East",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.744454363000045,
+      7.692774425000039
+    ]
+  },
+  {
+    "admin2Name": "Gwer West",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.372159140000065,
+      7.770002370000043
+    ]
+  },
+  {
+    "admin2Name": "Gwiwa",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      8.39947711000002,
+      12.826810126000055
+    ]
+  },
+  {
+    "admin2Name": "Hadejia",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.059639471000025,
+      12.440587813000036
+    ]
+  },
+  {
+    "admin2Name": "Hong",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.788552645000038,
+      10.577142613000035
+    ]
+  },
+  {
+    "admin2Name": "Ibadan North",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.939787485000068,
+      7.429025787000057
+    ]
+  },
+  {
+    "admin2Name": "Ibadan North East",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.944995560000052,
+      7.404030245000058
+    ]
+  },
+  {
+    "admin2Name": "Ibadan North West",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.898402167000029,
+      7.379959911000071
+    ]
+  },
+  {
+    "admin2Name": "Ibadan South East",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.898389419000068,
+      7.378933325000048
+    ]
+  },
+  {
+    "admin2Name": "Ibadan South West",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.85632583000006,
+      7.40791783800006
+    ]
+  },
+  {
+    "admin2Name": "Ibaji",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.960817397000028,
+      6.840899050000075
+    ]
+  },
+  {
+    "admin2Name": "Ibarapa Central",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.356237168000064,
+      7.593204428000035
+    ]
+  },
+  {
+    "admin2Name": "Ibarapa East",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.66449870100007,
+      7.74106443900007
+    ]
+  },
+  {
+    "admin2Name": "Ibarapa North",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.247025750000034,
+      7.809639420000053
+    ]
+  },
+  {
+    "admin2Name": "Ibeju/Lekki",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.959666470000059,
+      6.431384080000043
+    ]
+  },
+  {
+    "admin2Name": "Ibeno",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.241193734000035,
+      4.579414371000041
+    ]
+  },
+  {
+    "admin2Name": "Ibesikpo Asutan",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.993620744000054,
+      4.96873525500007
+    ]
+  },
+  {
+    "admin2Name": "Ibi",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.41248717700006,
+      8.677933689000042
+    ]
+  },
+  {
+    "admin2Name": "Ibiono Ibom",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.880370181000046,
+      5.366795550000063
+    ]
+  },
+  {
+    "admin2Name": "Idah",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.789291673000037,
+      7.025212358000033
+    ]
+  },
+  {
+    "admin2Name": "Idanre",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.083097555000052,
+      7.250691042000028
+    ]
+  },
+  {
+    "admin2Name": "Ideato North",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.202844695000067,
+      5.920961891000047
+    ]
+  },
+  {
+    "admin2Name": "Ideato South",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.178212457000029,
+      5.808308796000063
+    ]
+  },
+  {
+    "admin2Name": "Idemili North",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.908619386000055,
+      6.170329995000031
+    ]
+  },
+  {
+    "admin2Name": "Idemili South",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.980727920000049,
+      6.091601921000063
+    ]
+  },
+  {
+    "admin2Name": "Ido",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.747347243000036,
+      7.693665834000058
+    ]
+  },
+  {
+    "admin2Name": "Ido-Osi",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.164706863000049,
+      7.938229564000039
+    ]
+  },
+  {
+    "admin2Name": "Ifako-Ijaye",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.287864544000058,
+      6.687031433000072
+    ]
+  },
+  {
+    "admin2Name": "Ife Central",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.580928818000075,
+      7.539316793000069
+    ]
+  },
+  {
+    "admin2Name": "Ife East",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.648405037000032,
+      7.43706452300006
+    ]
+  },
+  {
+    "admin2Name": "Ife North",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.526352952000025,
+      7.617952403000061
+    ]
+  },
+  {
+    "admin2Name": "Ife South",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.667082312000048,
+      7.416947914000048
+    ]
+  },
+  {
+    "admin2Name": "Ifedayo",
+    "admin1Name": "Osun",
+    "coordinates": [
+      5.054930121000041,
+      8.049190382000063
+    ]
+  },
+  {
+    "admin2Name": "Ifedore",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.084746384000027,
+      7.456950544000051
+    ]
+  },
+  {
+    "admin2Name": "Ifelodun",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.721976767000058,
+      7.958984728000075
+    ]
+  },
+  {
+    "admin2Name": "Ifelodun",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.890408058000048,
+      9.05683422800007
+    ]
+  },
+  {
+    "admin2Name": "Ifo",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.438339896000059,
+      6.689821885000072
+    ]
+  },
+  {
+    "admin2Name": "Igabi",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.50717170300004,
+      11.006753778000075
+    ]
+  },
+  {
+    "admin2Name": "Igalamela-Odolu",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.307423535000055,
+      7.18332145200003
+    ]
+  },
+  {
+    "admin2Name": "Igbo-Etiti",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.510490057000027,
+      6.72917546900004
+    ]
+  },
+  {
+    "admin2Name": "Igbo-Eze North",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.530513945000052,
+      7.032278044000066
+    ]
+  },
+  {
+    "admin2Name": "Igbo-Eze South",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.489934712000036,
+      6.920552744000076
+    ]
+  },
+  {
+    "admin2Name": "Igueben",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.28161628600003,
+      6.360329195000077
+    ]
+  },
+  {
+    "admin2Name": "Ihiala",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.880967411000029,
+      5.912396369000021
+    ]
+  },
+  {
+    "admin2Name": "Ihitte/Uboma",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.381607578000057,
+      5.705608877000031
+    ]
+  },
+  {
+    "admin2Name": "Ijebu East",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      4.365075514000068,
+      7.059701074000031
+    ]
+  },
+  {
+    "admin2Name": "Ijebu North",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      4.203627631000074,
+      7.046032427000057
+    ]
+  },
+  {
+    "admin2Name": "Ijebu North East",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.969699940000055,
+      6.78886286900007
+    ]
+  },
+  {
+    "admin2Name": "Ijebu Ode",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.969699940000055,
+      6.78886286900007
+    ]
+  },
+  {
+    "admin2Name": "Ijero",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.094156157000043,
+      7.922412309000038
+    ]
+  },
+  {
+    "admin2Name": "Ijumu",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.02739187100002,
+      8.120030607000047
+    ]
+  },
+  {
+    "admin2Name": "Ika",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.617847719000054,
+      5.046498746000054
+    ]
+  },
+  {
+    "admin2Name": "Ika North East",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.375341957000046,
+      6.239600143000075
+    ]
+  },
+  {
+    "admin2Name": "Ika South",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.24664413000005,
+      6.312650205000068
+    ]
+  },
+  {
+    "admin2Name": "Ikara",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.274441638000042,
+      11.30619357300003
+    ]
+  },
+  {
+    "admin2Name": "Ikeduru",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.209131610000043,
+      5.607380341000066
+    ]
+  },
+  {
+    "admin2Name": "Ikeja",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.370129142000053,
+      6.64118366200006
+    ]
+  },
+  {
+    "admin2Name": "Ikenne",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.753829643000074,
+      6.908132763000026
+    ]
+  },
+  {
+    "admin2Name": "Ikere",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.313019287000031,
+      7.543030609000027
+    ]
+  },
+  {
+    "admin2Name": "Ikole",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.643636244000049,
+      8.073968050000076
+    ]
+  },
+  {
+    "admin2Name": "Ikom",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.857259889000034,
+      6.05953590200005
+    ]
+  },
+  {
+    "admin2Name": "Ikono",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.807320319000041,
+      5.294784402000062
+    ]
+  },
+  {
+    "admin2Name": "Ikorodu",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.699962121000056,
+      6.682374855000035
+    ]
+  },
+  {
+    "admin2Name": "Ikot Abasi",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.680856257000073,
+      4.543918005000023
+    ]
+  },
+  {
+    "admin2Name": "Ikot Ekpene",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.764188617000059,
+      5.149259074000042
+    ]
+  },
+  {
+    "admin2Name": "Ikpoba-Okha",
+    "admin1Name": "Edo",
+    "coordinates": [
+      5.827546171000051,
+      6.252757140000028
+    ]
+  },
+  {
+    "admin2Name": "Ikwerre",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.967688246000023,
+      5.234678875000043
+    ]
+  },
+  {
+    "admin2Name": "Ikwo",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.330331127000022,
+      6.189924881000024
+    ]
+  },
+  {
+    "admin2Name": "Ikwuano",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.577647052000032,
+      5.511944249000067
+    ]
+  },
+  {
+    "admin2Name": "Ila",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.95673851600003,
+      8.05354841600007
+    ]
+  },
+  {
+    "admin2Name": "Ilaje",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      4.593438008000021,
+      6.492928491000043
+    ]
+  },
+  {
+    "admin2Name": "Ile-Oluji-Okeigbo",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      4.985594776000028,
+      7.376762323000037
+    ]
+  },
+  {
+    "admin2Name": "Ilejemeji",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.282862325000053,
+      8.00847142300006
+    ]
+  },
+  {
+    "admin2Name": "Ilesha East",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.80927424500004,
+      7.59154262800007
+    ]
+  },
+  {
+    "admin2Name": "Ilesha West",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.779076903000032,
+      7.65723334200004
+    ]
+  },
+  {
+    "admin2Name": "Illela",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.528517328000021,
+      13.557349957000042
+    ]
+  },
+  {
+    "admin2Name": "Ilorin East",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.676814570000033,
+      8.506817824000052
+    ]
+  },
+  {
+    "admin2Name": "Ilorin South",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.594469149000076,
+      8.527765463000037
+    ]
+  },
+  {
+    "admin2Name": "Ilorin West",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.513797212000043,
+      8.570279206000066
+    ]
+  },
+  {
+    "admin2Name": "Imeko-Afon",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.025958563000074,
+      7.791801102000022
+    ]
+  },
+  {
+    "admin2Name": "Ingawa",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.16792395300007,
+      12.804061889000025
+    ]
+  },
+  {
+    "admin2Name": "Ini",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.876112163000073,
+      5.368900775000043
+    ]
+  },
+  {
+    "admin2Name": "Ipokia",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      2.81924176800004,
+      6.835682957000074
+    ]
+  },
+  {
+    "admin2Name": "Irele",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.16064579600004,
+      6.563108169000031
+    ]
+  },
+  {
+    "admin2Name": "Irepo",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.21046018800007,
+      8.970032953000043
+    ]
+  },
+  {
+    "admin2Name": "Irepodun",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      5.181912553000075,
+      8.19249158100007
+    ]
+  },
+  {
+    "admin2Name": "Irepodun/Ifelodun",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.387426252000068,
+      7.723801066000021
+    ]
+  },
+  {
+    "admin2Name": "Irepodun",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.543349252000041,
+      7.871244845000035
+    ]
+  },
+  {
+    "admin2Name": "Irewole",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.25218970100002,
+      7.472385308000071
+    ]
+  },
+  {
+    "admin2Name": "Isa",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      6.666914075000022,
+      13.362653644000034
+    ]
+  },
+  {
+    "admin2Name": "Ise/Orun",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.527393160000031,
+      7.510433943000066
+    ]
+  },
+  {
+    "admin2Name": "Iseyin",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.763361003000057,
+      8.206647858000053
+    ]
+  },
+  {
+    "admin2Name": "Ishielu",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      7.871888456000022,
+      6.566683864000026
+    ]
+  },
+  {
+    "admin2Name": "Isi-Uzo",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.89665946100007,
+      6.863931555000022
+    ]
+  },
+  {
+    "admin2Name": "Isiala-Ngwa North",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.509688711000024,
+      5.284194858000035
+    ]
+  },
+  {
+    "admin2Name": "Isiala-Ngwa South",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.507868038000026,
+      5.434589353000035
+    ]
+  },
+  {
+    "admin2Name": "Isiala Mbano",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.265981402000023,
+      5.744175169000073
+    ]
+  },
+  {
+    "admin2Name": "Isin",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      5.23989578100003,
+      8.255067950000068
+    ]
+  },
+  {
+    "admin2Name": "Isiukwuato",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.49757730400006,
+      5.907660092000071
+    ]
+  },
+  {
+    "admin2Name": "Isokan",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.278998328000057,
+      7.33486072900007
+    ]
+  },
+  {
+    "admin2Name": "Isoko North",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.347042042000055,
+      5.448467248000043
+    ]
+  },
+  {
+    "admin2Name": "Isoko South",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.347042042000055,
+      5.448467248000043
+    ]
+  },
+  {
+    "admin2Name": "Isu",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.09106203500005,
+      5.722291957000039
+    ]
+  },
+  {
+    "admin2Name": "Itas/Gadau",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.436906684000064,
+      11.914678590000051
+    ]
+  },
+  {
+    "admin2Name": "Itesiwaju",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.647887596000032,
+      8.336770869000077
+    ]
+  },
+  {
+    "admin2Name": "Itu",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.069683288000022,
+      5.135974906000058
+    ]
+  },
+  {
+    "admin2Name": "Ivo",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      7.691889462000063,
+      5.92464016200006
+    ]
+  },
+  {
+    "admin2Name": "Iwajowa",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.025564338000038,
+      8.219650587000046
+    ]
+  },
+  {
+    "admin2Name": "Iwo",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.251944120000076,
+      7.652536396000073
+    ]
+  },
+  {
+    "admin2Name": "Izzi",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.294514797000033,
+      6.678708960000051
+    ]
+  },
+  {
+    "admin2Name": "Jaba",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.128093939000053,
+      9.627155548000076
+    ]
+  },
+  {
+    "admin2Name": "Jada",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.821638017000055,
+      8.94734782100005
+    ]
+  },
+  {
+    "admin2Name": "Jahun",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.803989902000069,
+      12.112819097000056
+    ]
+  },
+  {
+    "admin2Name": "Jakusko",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.047947220000026,
+      12.74596804500004
+    ]
+  },
+  {
+    "admin2Name": "Jalingo",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.321335844000032,
+      8.985117960000025
+    ]
+  },
+  {
+    "admin2Name": "Jama'are",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.981647810000027,
+      11.761216137000076
+    ]
+  },
+  {
+    "admin2Name": "Jega",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.541342476000068,
+      12.231508336000047
+    ]
+  },
+  {
+    "admin2Name": "Jema'a",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.55562379600002,
+      9.547332727000025
+    ]
+  },
+  {
+    "admin2Name": "Jibia",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.594379848000074,
+      13.07008200200005
+    ]
+  },
+  {
+    "admin2Name": "Jos East",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.291556814000046,
+      9.903431671000021
+    ]
+  },
+  {
+    "admin2Name": "Jos North",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      8.986306452000065,
+      10.010419813000055
+    ]
+  },
+  {
+    "admin2Name": "Jos South",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      8.96429435400006,
+      9.851695796000058
+    ]
+  },
+  {
+    "admin2Name": "Kabba/Bunu",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.315334840000048,
+      7.833265865000044
+    ]
+  },
+  {
+    "admin2Name": "Kabo",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.131393676000073,
+      11.99685686600003
+    ]
+  },
+  {
+    "admin2Name": "Kachia",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.609337383000025,
+      10.166779620000057
+    ]
+  },
+  {
+    "admin2Name": "Kaduna North",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.471489406000046,
+      10.532432762000042
+    ]
+  },
+  {
+    "admin2Name": "Kaduna South",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.433182027000043,
+      10.489002466000045
+    ]
+  },
+  {
+    "admin2Name": "Kafin Hausa",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.19565416200004,
+      12.327196580000077
+    ]
+  },
+  {
+    "admin2Name": "Kafur",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.874760311000045,
+      11.783614037000063
+    ]
+  },
+  {
+    "admin2Name": "Kagarko",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.947628200000054,
+      9.63095740500006
+    ]
+  },
+  {
+    "admin2Name": "Kaiama",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      3.823319255000058,
+      10.054305857000031
+    ]
+  },
+  {
+    "admin2Name": "Kaita",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.818018262000066,
+      13.330421332000071
+    ]
+  },
+  {
+    "admin2Name": "Kajola",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.457087047000073,
+      8.04781726400006
+    ]
+  },
+  {
+    "admin2Name": "Kajuru",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.090607023000075,
+      10.689024003000043
+    ]
+  },
+  {
+    "admin2Name": "Kalgo",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.247743201000048,
+      12.327450114000044
+    ]
+  },
+  {
+    "admin2Name": "Kaltungo",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.538898545000052,
+      10.01885928300004
+    ]
+  },
+  {
+    "admin2Name": "Kanam",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      10.516327067000077,
+      9.510561109000037
+    ]
+  },
+  {
+    "admin2Name": "Kankara",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.486223529000029,
+      12.092532454000036
+    ]
+  },
+  {
+    "admin2Name": "Kanke",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.741759530000024,
+      9.534790736000048
+    ]
+  },
+  {
+    "admin2Name": "Kankia",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.940406959000029,
+      12.57806964200006
+    ]
+  },
+  {
+    "admin2Name": "Kano Municipal",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.532641614000056,
+      11.989859412000044
+    ]
+  },
+  {
+    "admin2Name": "Karasuwa",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.167745678000074,
+      12.948378938000076
+    ]
+  },
+  {
+    "admin2Name": "Karaye",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.147157047000064,
+      11.786487704000024
+    ]
+  },
+  {
+    "admin2Name": "Karim-Lamido",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.97489368600003,
+      9.592890513000043
+    ]
+  },
+  {
+    "admin2Name": "Karu",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      7.997315167000068,
+      9.317783487000042
+    ]
+  },
+  {
+    "admin2Name": "Katagum",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.588509224000063,
+      11.678338427000028
+    ]
+  },
+  {
+    "admin2Name": "Katcha",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.48073570400004,
+      9.423735781000062
+    ]
+  },
+  {
+    "admin2Name": "Katsina",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.693802420000054,
+      13.023847334000038
+    ]
+  },
+  {
+    "admin2Name": "Katsina-Ala",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.905205686000045,
+      7.607648196000071
+    ]
+  },
+  {
+    "admin2Name": "Kaugama",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.758126700000048,
+      12.809395793000022
+    ]
+  },
+  {
+    "admin2Name": "Kaura",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.599562915000035,
+      9.737936025000067
+    ]
+  },
+  {
+    "admin2Name": "Kaura Namoda",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.72568681100006,
+      12.589977486000066
+    ]
+  },
+  {
+    "admin2Name": "Kauru",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.218168013000025,
+      10.156783808000057
+    ]
+  },
+  {
+    "admin2Name": "Kazaure",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      8.677100962000054,
+      12.705171569000072
+    ]
+  },
+  {
+    "admin2Name": "Keana",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      8.956422338000039,
+      8.254094358000032
+    ]
+  },
+  {
+    "admin2Name": "Kebbe",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      4.942946371000062,
+      11.732523763000074
+    ]
+  },
+  {
+    "admin2Name": "Keffi",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      7.927336785000023,
+      8.835207170000047
+    ]
+  },
+  {
+    "admin2Name": "Khana",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.501562138000054,
+      4.807817927000031
+    ]
+  },
+  {
+    "admin2Name": "Kibiya",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.76170750600005,
+      11.635323206000066
+    ]
+  },
+  {
+    "admin2Name": "Kirfi",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.835072661000027,
+      10.395102730000076
+    ]
+  },
+  {
+    "admin2Name": "Kiri Kasamma",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.337584372000038,
+      12.465649792000022
+    ]
+  },
+  {
+    "admin2Name": "Kiru",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.276502623000056,
+      11.783690721000028
+    ]
+  },
+  {
+    "admin2Name": "Kiyawa",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.894061326000042,
+      11.952091617000065
+    ]
+  },
+  {
+    "admin2Name": "Kogi",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.963587837000034,
+      7.879294880000032
+    ]
+  },
+  {
+    "admin2Name": "Koko/Besse",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.348658245000024,
+      11.727478936000068
+    ]
+  },
+  {
+    "admin2Name": "Kokona",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      8.16540623000003,
+      9.071158112000035
+    ]
+  },
+  {
+    "admin2Name": "Kolokuma/Opokuma",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.147355203000075,
+      4.940584213000022
+    ]
+  },
+  {
+    "admin2Name": "Konshisha",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.75031939400003,
+      7.14443678400005
+    ]
+  },
+  {
+    "admin2Name": "Kontagora",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.711857785000063,
+      10.234745796000027
+    ]
+  },
+  {
+    "admin2Name": "Kosofe",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.434690753000041,
+      6.639135703000022
+    ]
+  },
+  {
+    "admin2Name": "Kubau",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.525234330000046,
+      11.131427429000041
+    ]
+  },
+  {
+    "admin2Name": "Kudan",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.833902840000064,
+      11.377389545000028
+    ]
+  },
+  {
+    "admin2Name": "Kuje",
+    "admin1Name": "Federal Capital Territory",
+    "coordinates": [
+      7.477623738000034,
+      8.631333444000063
+    ]
+  },
+  {
+    "admin2Name": "Kumbotso",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.494325252000067,
+      11.94635779600003
+    ]
+  },
+  {
+    "admin2Name": "Kunchi",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.383086381000055,
+      12.443739802000039
+    ]
+  },
+  {
+    "admin2Name": "Kura",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.518381828000031,
+      11.840929773000028
+    ]
+  },
+  {
+    "admin2Name": "Kurfi",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.558717012000045,
+      12.702037747000077
+    ]
+  },
+  {
+    "admin2Name": "Kurmi",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.978006624000045,
+      7.309875612000042
+    ]
+  },
+  {
+    "admin2Name": "Kusada",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.986897689000045,
+      12.578695034000077
+    ]
+  },
+  {
+    "admin2Name": "Kwali",
+    "admin1Name": "Federal Capital Territory",
+    "coordinates": [
+      7.095544385000039,
+      8.916612318000034
+    ]
+  },
+  {
+    "admin2Name": "Kwami",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.51474842600004,
+      10.612222664000058
+    ]
+  },
+  {
+    "admin2Name": "Kwande",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.731563404000042,
+      7.066891503000022
+    ]
+  },
+  {
+    "admin2Name": "Kware",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.310410667000042,
+      13.214572198000042
+    ]
+  },
+  {
+    "admin2Name": "Lafia",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      9.060153692000029,
+      9.020597519000034
+    ]
+  },
+  {
+    "admin2Name": "Lagelu",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.15892642600005,
+      7.529891559000021
+    ]
+  },
+  {
+    "admin2Name": "Lagos Island",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.406318196000029,
+      6.464496134000058
+    ]
+  },
+  {
+    "admin2Name": "Lagos Mainland",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.405478275000064,
+      6.523253338000075
+    ]
+  },
+  {
+    "admin2Name": "Lamurde",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      11.946012910000036,
+      9.64976649700003
+    ]
+  },
+  {
+    "admin2Name": "Langtang North",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.915121052000075,
+      9.210517043000038
+    ]
+  },
+  {
+    "admin2Name": "Langtang South",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      10.008015801000056,
+      8.553002418000062
+    ]
+  },
+  {
+    "admin2Name": "Lapai",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.795526474000042,
+      9.112392936000049
+    ]
+  },
+  {
+    "admin2Name": "Lau",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.53452853300007,
+      9.403206569000076
+    ]
+  },
+  {
+    "admin2Name": "Lavun",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.607848304000072,
+      9.68583393700004
+    ]
+  },
+  {
+    "admin2Name": "Lere",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.508171865000065,
+      10.695245965000026
+    ]
+  },
+  {
+    "admin2Name": "Logo",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.397112453000034,
+      7.844736357000045
+    ]
+  },
+  {
+    "admin2Name": "Lokoja",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.384096723000027,
+      8.644262261000051
+    ]
+  },
+  {
+    "admin2Name": "Machina",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      10.281180660000075,
+      13.270557309000026
+    ]
+  },
+  {
+    "admin2Name": "Madagali",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.621289244000025,
+      10.948234284000023
+    ]
+  },
+  {
+    "admin2Name": "Madobi",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.559234868000033,
+      11.872559550000062
+    ]
+  },
+  {
+    "admin2Name": "Magama",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.355644866000034,
+      10.621164132000047
+    ]
+  },
+  {
+    "admin2Name": "Mai'adua",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.401108151000074,
+      13.07091321300004
+    ]
+  },
+  {
+    "admin2Name": "Maigatari",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.658108450000043,
+      12.809121391000076
+    ]
+  },
+  {
+    "admin2Name": "Maiha",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.282841502000053,
+      10.061382546000061
+    ]
+  },
+  {
+    "admin2Name": "Maiyama",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.53512136300003,
+      11.863444403000074
+    ]
+  },
+  {
+    "admin2Name": "Makoda",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.534705548000034,
+      12.590291697000055
+    ]
+  },
+  {
+    "admin2Name": "Makurdi",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.66053963500002,
+      7.703127727000037
+    ]
+  },
+  {
+    "admin2Name": "Malam Madori",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      10.060007579000057,
+      12.50474699800003
+    ]
+  },
+  {
+    "admin2Name": "Malumfashi",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.837203654000064,
+      11.990107859000034
+    ]
+  },
+  {
+    "admin2Name": "Mangu",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.32211559600006,
+      9.580175173000043
+    ]
+  },
+  {
+    "admin2Name": "Mani",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.055358162000061,
+      12.962002344000041
+    ]
+  },
+  {
+    "admin2Name": "Maradun",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.20533806100002,
+      13.05532600600003
+    ]
+  },
+  {
+    "admin2Name": "Mariga",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.008521716000075,
+      11.141016
+    ]
+  },
+  {
+    "admin2Name": "Markafi",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.969383612000058,
+      11.458786443000065
+    ]
+  },
+  {
+    "admin2Name": "Maru",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.423337504000074,
+      12.360418159000062
+    ]
+  },
+  {
+    "admin2Name": "Mashegu",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.711857785000063,
+      10.234745796000027
+    ]
+  },
+  {
+    "admin2Name": "Mashi",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.066014503000076,
+      13.304209808000053
+    ]
+  },
+  {
+    "admin2Name": "Matazu",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.629457775000049,
+      12.367142215000058
+    ]
+  },
+  {
+    "admin2Name": "Mayo-Belwa",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.114909357000045,
+      9.24030717900007
+    ]
+  },
+  {
+    "admin2Name": "Mbaitoli",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.122473998000032,
+      5.625685950000047
+    ]
+  },
+  {
+    "admin2Name": "Mbo",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.206641080000054,
+      4.673179317000063
+    ]
+  },
+  {
+    "admin2Name": "Michika",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.349271702000067,
+      10.715725149000036
+    ]
+  },
+  {
+    "admin2Name": "Miga",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.727733407000073,
+      12.301661694000074
+    ]
+  },
+  {
+    "admin2Name": "Mikang",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.784290084000077,
+      8.893896875000053
+    ]
+  },
+  {
+    "admin2Name": "Minjibir",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.73024575200003,
+      12.214969363000023
+    ]
+  },
+  {
+    "admin2Name": "Misau",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.717442714000072,
+      11.44590813900004
+    ]
+  },
+  {
+    "admin2Name": "Mkpat Enin",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.807025180000039,
+      4.877768988000071
+    ]
+  },
+  {
+    "admin2Name": "Moba",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.162611575000028,
+      8.04950621100005
+    ]
+  },
+  {
+    "admin2Name": "Mokwa",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.287321549000069,
+      9.544455863000053
+    ]
+  },
+  {
+    "admin2Name": "Mopa-Muro",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.087030465000055,
+      8.354029765000064
+    ]
+  },
+  {
+    "admin2Name": "Moro",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.890408058000048,
+      9.05683422800007
+    ]
+  },
+  {
+    "admin2Name": "Mubi North",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.521256590000064,
+      10.415479075000064
+    ]
+  },
+  {
+    "admin2Name": "Mubi South",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.469702374000065,
+      10.209332962000076
+    ]
+  },
+  {
+    "admin2Name": "Musawa",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.868158349000055,
+      12.245371400000067
+    ]
+  },
+  {
+    "admin2Name": "Mushin",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.367718297000067,
+      6.557177961000036
+    ]
+  },
+  {
+    "admin2Name": "Muya",
+    "admin1Name": "Niger",
+    "coordinates": [
+      7.254066906000048,
+      10.039226540000072
+    ]
+  },
+  {
+    "admin2Name": "Nafada",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.400138878000064,
+      11.089087412000026
+    ]
+  },
+  {
+    "admin2Name": "Nangere",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.212938139000073,
+      11.821884738000051
+    ]
+  },
+  {
+    "admin2Name": "Nasarawa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.596320561000027,
+      12.021417272000065
+    ]
+  },
+  {
+    "admin2Name": "Nasarawa-Eggon",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      8.524262375000035,
+      8.905374125000037
+    ]
+  },
+  {
+    "admin2Name": "Nasarawa",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      7.928194567000048,
+      8.651935723000065
+    ]
+  },
+  {
+    "admin2Name": "Ndokwa East",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.719857347000072,
+      5.992121182000062
+    ]
+  },
+  {
+    "admin2Name": "Ndokwa West",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.479153281000038,
+      5.985262885000054
+    ]
+  },
+  {
+    "admin2Name": "Nembe",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.568485950000024,
+      4.737030097000059
+    ]
+  },
+  {
+    "admin2Name": "Ngaski",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      5.10087866300006,
+      10.759829796000076
+    ]
+  },
+  {
+    "admin2Name": "Ngor-Okpala",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.291588828000044,
+      5.319604876000028
+    ]
+  },
+  {
+    "admin2Name": "Nguru",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      10.492227610000043,
+      13.014889654000058
+    ]
+  },
+  {
+    "admin2Name": "Ningi",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.624977827000066,
+      11.252455886000064
+    ]
+  },
+  {
+    "admin2Name": "Njaba",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.060325095000053,
+      5.749616840000044
+    ]
+  },
+  {
+    "admin2Name": "Dunukofia",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.008407840000075,
+      6.255470384000034
+    ]
+  },
+  {
+    "admin2Name": "Nkanu East",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.725004742000067,
+      6.242600913000047
+    ]
+  },
+  {
+    "admin2Name": "Nkanu West",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.618824620000055,
+      6.419865370000025
+    ]
+  },
+  {
+    "admin2Name": "Nkwerre",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.109709297000052,
+      5.770588297000074
+    ]
+  },
+  {
+    "admin2Name": "Nnewi North",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.952607005000061,
+      6.020284772000025
+    ]
+  },
+  {
+    "admin2Name": "Nnewi South",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.056444716000044,
+      5.930613533000042
+    ]
+  },
+  {
+    "admin2Name": "Nsit Atai",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.089216227000065,
+      4.869660846000045
+    ]
+  },
+  {
+    "admin2Name": "Nsit Ibom",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.882638178000036,
+      5.000734775000069
+    ]
+  },
+  {
+    "admin2Name": "Nsit Ubium",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.974884854000038,
+      4.834684863000064
+    ]
+  },
+  {
+    "admin2Name": "Nsukka",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.31299395800005,
+      6.999724358000037
+    ]
+  },
+  {
+    "admin2Name": "Numan",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      11.670535408000035,
+      9.253109790000053
+    ]
+  },
+  {
+    "admin2Name": "Nwangele",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.175797370000055,
+      5.735958586000038
+    ]
+  },
+  {
+    "admin2Name": "Obafemi-Owode",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.727600573000075,
+      7.083577640000044
+    ]
+  },
+  {
+    "admin2Name": "Obanliku",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      9.465628632000062,
+      6.455608316000053
+    ]
+  },
+  {
+    "admin2Name": "Obi",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      9.008576169000037,
+      8.400404026000047
+    ]
+  },
+  {
+    "admin2Name": "Obi Ngwa",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.535015956000052,
+      5.30381303200005
+    ]
+  },
+  {
+    "admin2Name": "Obi",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.41038612400007,
+      7.064200826000047
+    ]
+  },
+  {
+    "admin2Name": "Obia/Akpor",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.039434935000031,
+      4.934809224000048
+    ]
+  },
+  {
+    "admin2Name": "Obokun",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.782589459000064,
+      7.879356273000042
+    ]
+  },
+  {
+    "admin2Name": "Obot Akara",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.679185346000054,
+      5.298054147000073
+    ]
+  },
+  {
+    "admin2Name": "Obowo",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.422786106000046,
+      5.583626314000071
+    ]
+  },
+  {
+    "admin2Name": "Obubra",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.473115204000067,
+      6.284353217000046
+    ]
+  },
+  {
+    "admin2Name": "Obudu",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      9.16819703300007,
+      6.686731710000061
+    ]
+  },
+  {
+    "admin2Name": "Odeda",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.545752558000061,
+      7.440804434000029
+    ]
+  },
+  {
+    "admin2Name": "Odigbo",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      4.988069043000053,
+      6.898733716000038
+    ]
+  },
+  {
+    "admin2Name": "Odo-Otin",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.792956210000057,
+      8.06654157500003
+    ]
+  },
+  {
+    "admin2Name": "Odogbolu",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.936264797000035,
+      6.891647828000032
+    ]
+  },
+  {
+    "admin2Name": "Odukpani",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.139670435000028,
+      5.287423078000074
+    ]
+  },
+  {
+    "admin2Name": "Offa",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.74656052000006,
+      8.122604313000068
+    ]
+  },
+  {
+    "admin2Name": "Ofu",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.474266460000024,
+      7.403488122000056
+    ]
+  },
+  {
+    "admin2Name": "Ogba/Egbema/Ndoni",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      6.669886308000059,
+      5.696277190000046
+    ]
+  },
+  {
+    "admin2Name": "Ogbadibo",
+    "admin1Name": "Benue",
+    "coordinates": [
+      7.776001764000057,
+      6.875904981000076
+    ]
+  },
+  {
+    "admin2Name": "Ogbaru",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.795126416000073,
+      6.12913179700007
+    ]
+  },
+  {
+    "admin2Name": "Ogbia",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.398606663000066,
+      4.851465241000028
+    ]
+  },
+  {
+    "admin2Name": "Ogbomosho North",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.282382516000041,
+      8.083375868000076
+    ]
+  },
+  {
+    "admin2Name": "Ogbomosho South",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.282382516000041,
+      8.083375868000076
+    ]
+  },
+  {
+    "admin2Name": "Ogo Oluwa",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.280046923000043,
+      8.081088074000036
+    ]
+  },
+  {
+    "admin2Name": "Ogoja",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.972255480000058,
+      6.643128903000047
+    ]
+  },
+  {
+    "admin2Name": "Ogori/Magongo",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.225323300000071,
+      7.468395656000041
+    ]
+  },
+  {
+    "admin2Name": "Ogu/Bolo",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.226068594000026,
+      4.700393244000054
+    ]
+  },
+  {
+    "admin2Name": "Ogun waterside",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      4.537379163000026,
+      6.60061057300004
+    ]
+  },
+  {
+    "admin2Name": "Oguta",
+    "admin1Name": "Imo",
+    "coordinates": [
+      6.83610552600004,
+      5.754879957000071
+    ]
+  },
+  {
+    "admin2Name": "Ohafia",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.890100026000027,
+      5.684799704000056
+    ]
+  },
+  {
+    "admin2Name": "Ohaji/Egbema",
+    "admin1Name": "Imo",
+    "coordinates": [
+      6.890501390000054,
+      5.528083801000037
+    ]
+  },
+  {
+    "admin2Name": "Ohaozara",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      7.926255418000039,
+      5.973769724000022
+    ]
+  },
+  {
+    "admin2Name": "Ohaukwu",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      8.079565762000072,
+      6.713152040000068
+    ]
+  },
+  {
+    "admin2Name": "Ohimini",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.001581263000048,
+      7.130193962000021
+    ]
+  },
+  {
+    "admin2Name": "Oji-River",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.245460927000067,
+      6.275623299000074
+    ]
+  },
+  {
+    "admin2Name": "Ojo",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.250477102000048,
+      6.47835546400006
+    ]
+  },
+  {
+    "admin2Name": "Oju",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.438525218000052,
+      7.046871261000035
+    ]
+  },
+  {
+    "admin2Name": "Oke-Ero",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      5.457533390000037,
+      8.206403844000022
+    ]
+  },
+  {
+    "admin2Name": "Okehi",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.570581082000047,
+      7.86969244200003
+    ]
+  },
+  {
+    "admin2Name": "Okene",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.404452900000024,
+      7.521543207000036
+    ]
+  },
+  {
+    "admin2Name": "Okigwe",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.394222266000043,
+      5.910171455000068
+    ]
+  },
+  {
+    "admin2Name": "Okitipupa",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      4.84207748700004,
+      6.588557516000037
+    ]
+  },
+  {
+    "admin2Name": "Okobo",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.24028127500003,
+      4.854086426000038
+    ]
+  },
+  {
+    "admin2Name": "Okpe",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.894185192000066,
+      5.798591796000039
+    ]
+  },
+  {
+    "admin2Name": "Okpokwu",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.001581263000048,
+      7.130193962000021
+    ]
+  },
+  {
+    "admin2Name": "Okrika",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.175617120000027,
+      4.735705880000069
+    ]
+  },
+  {
+    "admin2Name": "Ola-oluwa",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.319902478000074,
+      7.678954005000037
+    ]
+  },
+  {
+    "admin2Name": "Olamabolo",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.774711988000035,
+      7.301192623000077
+    ]
+  },
+  {
+    "admin2Name": "Olorunda",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.556531417000031,
+      7.947974711000029
+    ]
+  },
+  {
+    "admin2Name": "Olorunsogo",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.329013373000066,
+      8.989558892000048
+    ]
+  },
+  {
+    "admin2Name": "Oluyole",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.995383008000033,
+      7.125019771000041
+    ]
+  },
+  {
+    "admin2Name": "Omala",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      7.676837731000035,
+      8.014471178000065
+    ]
+  },
+  {
+    "admin2Name": "Omumma",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.270400856000037,
+      5.102309113000047
+    ]
+  },
+  {
+    "admin2Name": "Ona-Ara",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.128886655000031,
+      7.310589725000057
+    ]
+  },
+  {
+    "admin2Name": "Ondo East",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.036707509000053,
+      7.255974283000057
+    ]
+  },
+  {
+    "admin2Name": "Ondo West",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      4.998771064000039,
+      6.938887652000062
+    ]
+  },
+  {
+    "admin2Name": "Onicha",
+    "admin1Name": "Ebonyi",
+    "coordinates": [
+      7.882315901000027,
+      6.184412508000037
+    ]
+  },
+  {
+    "admin2Name": "Onitsha North",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.835141213000043,
+      6.182289619000073
+    ]
+  },
+  {
+    "admin2Name": "Onitsha South",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.787640690000046,
+      6.129641019000076
+    ]
+  },
+  {
+    "admin2Name": "Onna",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.884353166000039,
+      4.72115315800005
+    ]
+  },
+  {
+    "admin2Name": "Opobo/Nkoro",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.529382368000029,
+      4.543667778000042
+    ]
+  },
+  {
+    "admin2Name": "Oredo",
+    "admin1Name": "Edo",
+    "coordinates": [
+      5.462244918000067,
+      6.099954144000037
+    ]
+  },
+  {
+    "admin2Name": "Orelope",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.977229044000069,
+      8.87553951800004
+    ]
+  },
+  {
+    "admin2Name": "Orhionmwon",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.28161628600003,
+      6.360329195000077
+    ]
+  },
+  {
+    "admin2Name": "Ori Ire",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.375293417000023,
+      8.31818662400002
+    ]
+  },
+  {
+    "admin2Name": "Oriade",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.893228493000038,
+      7.730335228000058
+    ]
+  },
+  {
+    "admin2Name": "Orlu",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.056075880000037,
+      5.838800033000041
+    ]
+  },
+  {
+    "admin2Name": "Orolu",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.543028381000056,
+      7.884988340000064
+    ]
+  },
+  {
+    "admin2Name": "Oron",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.266182910000055,
+      4.835324752000076
+    ]
+  },
+  {
+    "admin2Name": "Orsu",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.01588057500004,
+      5.89526945700004
+    ]
+  },
+  {
+    "admin2Name": "Oru East",
+    "admin1Name": "Imo",
+    "coordinates": [
+      6.979285301000061,
+      5.788091577000046
+    ]
+  },
+  {
+    "admin2Name": "Oru West",
+    "admin1Name": "Imo",
+    "coordinates": [
+      6.907081442000049,
+      5.819555076000029
+    ]
+  },
+  {
+    "admin2Name": "Oruk Anam",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.794308191000027,
+      4.888054845000056
+    ]
+  },
+  {
+    "admin2Name": "Orumba North",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.27310662900004,
+      6.057219036000049
+    ]
+  },
+  {
+    "admin2Name": "Orumba South",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      7.339062708000029,
+      6.042149551000023
+    ]
+  },
+  {
+    "admin2Name": "Ose",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.846866132000059,
+      7.39451077700005
+    ]
+  },
+  {
+    "admin2Name": "Oshimili North",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.725022284000033,
+      6.265763216000039
+    ]
+  },
+  {
+    "admin2Name": "Oshimili South",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.762889290000032,
+      6.185385698000061
+    ]
+  },
+  {
+    "admin2Name": "Oshodi-Isolo",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.352580998000064,
+      6.554777732000048
+    ]
+  },
+  {
+    "admin2Name": "Osisioma Ngwa",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.38480052500006,
+      5.200843878000057
+    ]
+  },
+  {
+    "admin2Name": "Osogbo",
+    "admin1Name": "Osun",
+    "coordinates": [
+      4.599284667000063,
+      7.801316332000056
+    ]
+  },
+  {
+    "admin2Name": "Oturkpo",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.13474166900005,
+      7.374030207000033
+    ]
+  },
+  {
+    "admin2Name": "Ovia North East",
+    "admin1Name": "Edo",
+    "coordinates": [
+      5.537059795000062,
+      6.884796622000067
+    ]
+  },
+  {
+    "admin2Name": "Ovia South West",
+    "admin1Name": "Edo",
+    "coordinates": [
+      5.459748756000067,
+      6.885983013000043
+    ]
+  },
+  {
+    "admin2Name": "Owan East",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.180317962000061,
+      7.11275824300003
+    ]
+  },
+  {
+    "admin2Name": "Owan West",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.046033806000025,
+      6.776315171000022
+    ]
+  },
+  {
+    "admin2Name": "Owerri-Municipal",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.042401727000026,
+      5.45220517000007
+    ]
+  },
+  {
+    "admin2Name": "Owerri North",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.158354307000025,
+      5.484988671000053
+    ]
+  },
+  {
+    "admin2Name": "Owerri West",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.01390598100005,
+      5.534204037000052
+    ]
+  },
+  {
+    "admin2Name": "Owo",
+    "admin1Name": "Ondo",
+    "coordinates": [
+      5.669749175000049,
+      7.300109383000063
+    ]
+  },
+  {
+    "admin2Name": "Oye",
+    "admin1Name": "Ekiti",
+    "coordinates": [
+      5.387426252000068,
+      7.723801066000021
+    ]
+  },
+  {
+    "admin2Name": "Oyi",
+    "admin1Name": "Anambra",
+    "coordinates": [
+      6.959427840000046,
+      6.275431248000075
+    ]
+  },
+  {
+    "admin2Name": "Oyigbo",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.319818782000027,
+      4.879619170000069
+    ]
+  },
+  {
+    "admin2Name": "Oyo East",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.083780408000052,
+      7.943938165000077
+    ]
+  },
+  {
+    "admin2Name": "Oyo West",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.931859103000022,
+      7.851146652000068
+    ]
+  },
+  {
+    "admin2Name": "Oyun",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      4.74610473000007,
+      8.212347545000057
+    ]
+  },
+  {
+    "admin2Name": "Paikoro",
+    "admin1Name": "Niger",
+    "coordinates": [
+      7.204739963000065,
+      9.758295778000047
+    ]
+  },
+  {
+    "admin2Name": "Pankshin",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.475710250000077,
+      9.474486996000053
+    ]
+  },
+  {
+    "admin2Name": "Patani",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.980889411000021,
+      5.130557515000021
+    ]
+  },
+  {
+    "admin2Name": "Pategi",
+    "admin1Name": "Kwara",
+    "coordinates": [
+      6.208536010000046,
+      8.732374926000034
+    ]
+  },
+  {
+    "admin2Name": "Port-Harcourt",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.076556322000044,
+      4.813961973000062
+    ]
+  },
+  {
+    "admin2Name": "Potiskum",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.267074001000026,
+      11.662743583000065
+    ]
+  },
+  {
+    "admin2Name": "Qua'an Pan",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.340137267000046,
+      9.112972854000077
+    ]
+  },
+  {
+    "admin2Name": "Rabah",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.719407837000063,
+      13.243125108000072
+    ]
+  },
+  {
+    "admin2Name": "Rafi",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.540331802000026,
+      10.545210062000024
+    ]
+  },
+  {
+    "admin2Name": "Rano",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.617394563000062,
+      11.345740412000055
+    ]
+  },
+  {
+    "admin2Name": "Remo North",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.842820781000057,
+      7.082940291000057
+    ]
+  },
+  {
+    "admin2Name": "Rijau",
+    "admin1Name": "Niger",
+    "coordinates": [
+      5.154251172000045,
+      11.346612991000029
+    ]
+  },
+  {
+    "admin2Name": "Rimi",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.83462589800007,
+      13.080384155000047
+    ]
+  },
+  {
+    "admin2Name": "Rimin Gado",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.410190144000069,
+      11.92947287100003
+    ]
+  },
+  {
+    "admin2Name": "Ringim",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.337813339000036,
+      12.167579370000055
+    ]
+  },
+  {
+    "admin2Name": "Riyom",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      8.698367527000073,
+      9.733711633000041
+    ]
+  },
+  {
+    "admin2Name": "Rogo",
+    "admin1Name": "Kano",
+    "coordinates": [
+      7.968176123000035,
+      11.643480024000041
+    ]
+  },
+  {
+    "admin2Name": "Roni",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      8.36934719800007,
+      12.662674086000038
+    ]
+  },
+  {
+    "admin2Name": "Sabon-Gari",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.808720968000046,
+      11.158277841000029
+    ]
+  },
+  {
+    "admin2Name": "Sabon Birni",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      6.666914075000022,
+      13.362653644000034
+    ]
+  },
+  {
+    "admin2Name": "Sabuwa",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.101858875000062,
+      11.531483741000045
+    ]
+  },
+  {
+    "admin2Name": "Safana",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.405774238000049,
+      13.023042949000057
+    ]
+  },
+  {
+    "admin2Name": "Sagbama",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.530881853000039,
+      5.284537818000047
+    ]
+  },
+  {
+    "admin2Name": "Sakaba",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      5.397955649000039,
+      11.402651526000056
+    ]
+  },
+  {
+    "admin2Name": "Saki East",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.822780623000028,
+      8.596618544000023
+    ]
+  },
+  {
+    "admin2Name": "Saki West",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      3.442421897000031,
+      8.600106118000042
+    ]
+  },
+  {
+    "admin2Name": "Sandamu",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      7.290532203000055,
+      12.681999548000022
+    ]
+  },
+  {
+    "admin2Name": "Sanga",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.570287677000067,
+      9.498610024000072
+    ]
+  },
+  {
+    "admin2Name": "Sapele",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.774864489000038,
+      5.824809039000058
+    ]
+  },
+  {
+    "admin2Name": "Sardauna",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.66074470500007,
+      6.989963120000027
+    ]
+  },
+  {
+    "admin2Name": "Shagamu",
+    "admin1Name": "Ogun",
+    "coordinates": [
+      3.716936341000064,
+      6.799603586000046
+    ]
+  },
+  {
+    "admin2Name": "Shagari",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.260876050000036,
+      12.61143743200006
+    ]
+  },
+  {
+    "admin2Name": "Shanga",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.761457664000034,
+      11.31491978200006
+    ]
+  },
+  {
+    "admin2Name": "Shanono",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.005803416000049,
+      12.160626753000031
+    ]
+  },
+  {
+    "admin2Name": "Shelleng",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.233513695000056,
+      9.978627073000041
+    ]
+  },
+  {
+    "admin2Name": "Shendam",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      9.381306669000026,
+      9.097296562000054
+    ]
+  },
+  {
+    "admin2Name": "Shinkafi",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.655344200000059,
+      13.077429906000077
+    ]
+  },
+  {
+    "admin2Name": "Shira",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.182092975000046,
+      11.55178511500003
+    ]
+  },
+  {
+    "admin2Name": "Shiroro",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.901178894000054,
+      10.076381575000028
+    ]
+  },
+  {
+    "admin2Name": "Shomgom",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.379238862000022,
+      9.623203257000057
+    ]
+  },
+  {
+    "admin2Name": "Shomolu",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.368380118000061,
+      6.557161007000047
+    ]
+  },
+  {
+    "admin2Name": "Silame",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      4.963443205000033,
+      13.082524981000063
+    ]
+  },
+  {
+    "admin2Name": "Soba",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.055931115000021,
+      11.20233935400006
+    ]
+  },
+  {
+    "admin2Name": "Sokoto North",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.248886517000074,
+      13.101765425000053
+    ]
+  },
+  {
+    "admin2Name": "Sokoto South",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.283259827000052,
+      13.028566817000069
+    ]
+  },
+  {
+    "admin2Name": "Song",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      13.056936096000072,
+      10.02633596000004
+    ]
+  },
+  {
+    "admin2Name": "Southern Ijaw",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.12523002100005,
+      4.993736942000055
+    ]
+  },
+  {
+    "admin2Name": "Sule-Tankarkar",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.340755754000043,
+      12.814437757000064
+    ]
+  },
+  {
+    "admin2Name": "Suleja",
+    "admin1Name": "Niger",
+    "coordinates": [
+      7.219984847000035,
+      9.264526913000054
+    ]
+  },
+  {
+    "admin2Name": "Sumaila",
+    "admin1Name": "Kano",
+    "coordinates": [
+      9.016634026000077,
+      11.501169877000052
+    ]
+  },
+  {
+    "admin2Name": "Suru",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.304988618000039,
+      11.723702681000077
+    ]
+  },
+  {
+    "admin2Name": "Surulere",
+    "admin1Name": "Lagos",
+    "coordinates": [
+      3.368344047000051,
+      6.518561859000044
+    ]
+  },
+  {
+    "admin2Name": "Surulere",
+    "admin1Name": "Oyo",
+    "coordinates": [
+      4.494964129000039,
+      8.122775065000042
+    ]
+  },
+  {
+    "admin2Name": "Tafa",
+    "admin1Name": "Niger",
+    "coordinates": [
+      7.38816844400003,
+      9.349822979000066
+    ]
+  },
+  {
+    "admin2Name": "Tafawa-Balewa",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.64216830600003,
+      10.233016790000022
+    ]
+  },
+  {
+    "admin2Name": "Tai",
+    "admin1Name": "Rivers",
+    "coordinates": [
+      7.321206999000026,
+      4.78311923900003
+    ]
+  },
+  {
+    "admin2Name": "Takai",
+    "admin1Name": "Kano",
+    "coordinates": [
+      9.362553578000075,
+      11.564279386000067
+    ]
+  },
+  {
+    "admin2Name": "Takum",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.242503888000044,
+      7.422845466000069
+    ]
+  },
+  {
+    "admin2Name": "Talata Mafara",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      6.302344821000077,
+      12.424840386000028
+    ]
+  },
+  {
+    "admin2Name": "Tambuwal",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      4.812808526000026,
+      12.756440762000068
+    ]
+  },
+  {
+    "admin2Name": "Tangaza",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.155894705000037,
+      13.745788920000052
+    ]
+  },
+  {
+    "admin2Name": "Tarauni",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.591597523000075,
+      11.959780008000052
+    ]
+  },
+  {
+    "admin2Name": "Tarka",
+    "admin1Name": "Benue",
+    "coordinates": [
+      8.961255897000058,
+      7.687292486000047
+    ]
+  },
+  {
+    "admin2Name": "Tarmua",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.735203106000029,
+      12.443159858000058
+    ]
+  },
+  {
+    "admin2Name": "Taura",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      9.603640985000027,
+      12.333074708000026
+    ]
+  },
+  {
+    "admin2Name": "Tofa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.39214899500007,
+      12.019260424000038
+    ]
+  },
+  {
+    "admin2Name": "Toro",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.607861823000064,
+      10.589420096000026
+    ]
+  },
+  {
+    "admin2Name": "Toto",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      7.404485174000058,
+      8.042964915000027
+    ]
+  },
+  {
+    "admin2Name": "Toungo",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.252991034000047,
+      8.253887192000036
+    ]
+  },
+  {
+    "admin2Name": "Tsafe",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      7.115156054000067,
+      12.090473227000075
+    ]
+  },
+  {
+    "admin2Name": "Tsanyawa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.105826618000037,
+      12.403611736000073
+    ]
+  },
+  {
+    "admin2Name": "Tudun Wada",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.804309402000058,
+      11.392134401000021
+    ]
+  },
+  {
+    "admin2Name": "Tureta",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.685791565000045,
+      12.713689971000065
+    ]
+  },
+  {
+    "admin2Name": "Udenu",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.692280065000034,
+      6.851824278000038
+    ]
+  },
+  {
+    "admin2Name": "Udi",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.459235576000026,
+      6.616877155000054
+    ]
+  },
+  {
+    "admin2Name": "Udu",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.819704448000039,
+      5.539459243000067
+    ]
+  },
+  {
+    "admin2Name": "Udung Uko",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.303631129000053,
+      4.733638788000064
+    ]
+  },
+  {
+    "admin2Name": "Ughelli North",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.162654908000036,
+      5.740603924000027
+    ]
+  },
+  {
+    "admin2Name": "Ughelli South",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.850398153000071,
+      5.556378291000044
+    ]
+  },
+  {
+    "admin2Name": "Ugwunagbo",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.401109326000039,
+      5.08194751800005
+    ]
+  },
+  {
+    "admin2Name": "Uhunmwonde",
+    "admin1Name": "Edo",
+    "coordinates": [
+      6.013270976000058,
+      6.773068862000059
+    ]
+  },
+  {
+    "admin2Name": "Ukanafun",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.660419170000068,
+      4.938580804000026
+    ]
+  },
+  {
+    "admin2Name": "Ukum",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.863546855000038,
+      7.686014207000028
+    ]
+  },
+  {
+    "admin2Name": "Ukwa East",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.491546117000041,
+      4.946785956000042
+    ]
+  },
+  {
+    "admin2Name": "Ukwa West",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.30310849500006,
+      5.075495104000026
+    ]
+  },
+  {
+    "admin2Name": "Ukwuani",
+    "admin1Name": "Delta",
+    "coordinates": [
+      6.166832493000072,
+      5.726475753000045
+    ]
+  },
+  {
+    "admin2Name": "Umu-Nneochi",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.38479316400003,
+      6.037316737000026
+    ]
+  },
+  {
+    "admin2Name": "Umuahia North",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.46616485100003,
+      5.699527219000061
+    ]
+  },
+  {
+    "admin2Name": "Umuahia South",
+    "admin1Name": "Abia",
+    "coordinates": [
+      7.538756,
+      5.498257658000057
+    ]
+  },
+  {
+    "admin2Name": "Ungogo",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.652526546000047,
+      12.092630886000052
+    ]
+  },
+  {
+    "admin2Name": "Unuimo",
+    "admin1Name": "Imo",
+    "coordinates": [
+      7.226127922000046,
+      5.853988017000063
+    ]
+  },
+  {
+    "admin2Name": "Uruan",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.153121180000028,
+      4.938528079000037
+    ]
+  },
+  {
+    "admin2Name": "Urue-Offong/Oruko",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      8.22138505700002,
+      4.777455448000069
+    ]
+  },
+  {
+    "admin2Name": "Ushongo",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.069430695000051,
+      7.209214386000042
+    ]
+  },
+  {
+    "admin2Name": "Ussa",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.26748010700004,
+      7.278253136000046
+    ]
+  },
+  {
+    "admin2Name": "Uvwie",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.846122667000031,
+      5.587284734000036
+    ]
+  },
+  {
+    "admin2Name": "Uyo",
+    "admin1Name": "Akwa Ibom",
+    "coordinates": [
+      7.845483700000045,
+      5.031360376000066
+    ]
+  },
+  {
+    "admin2Name": "Uzo-Uwani",
+    "admin1Name": "Enugu",
+    "coordinates": [
+      7.332398964000049,
+      6.724825875000022
+    ]
+  },
+  {
+    "admin2Name": "Vandeikya",
+    "admin1Name": "Benue",
+    "coordinates": [
+      9.206760177000035,
+      6.929075674000046
+    ]
+  },
+  {
+    "admin2Name": "Wamako",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.248886517000074,
+      13.101765425000053
+    ]
+  },
+  {
+    "admin2Name": "Wamba",
+    "admin1Name": "Nasarawa",
+    "coordinates": [
+      8.927272735000031,
+      9.016075089000026
+    ]
+  },
+  {
+    "admin2Name": "Warawa",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.83727028100003,
+      11.979807094000023
+    ]
+  },
+  {
+    "admin2Name": "Warji",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      9.854277265000064,
+      11.049585979000028
+    ]
+  },
+  {
+    "admin2Name": "Warri North",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.270169742000064,
+      6.054295938000053
+    ]
+  },
+  {
+    "admin2Name": "Warri South",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.552169883000033,
+      5.851335986000038
+    ]
+  },
+  {
+    "admin2Name": "Warri South West",
+    "admin1Name": "Delta",
+    "coordinates": [
+      5.493133190000037,
+      5.829592204000051
+    ]
+  },
+  {
+    "admin2Name": "Wasagu/Danko",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      5.304690233000031,
+      11.78426094300005
+    ]
+  },
+  {
+    "admin2Name": "Wase",
+    "admin1Name": "Plateau",
+    "coordinates": [
+      10.569179507000058,
+      9.399789704000057
+    ]
+  },
+  {
+    "admin2Name": "Wudil",
+    "admin1Name": "Kano",
+    "coordinates": [
+      8.946037484000044,
+      11.893340237000075
+    ]
+  },
+  {
+    "admin2Name": "Wukari",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      10.32969662000005,
+      8.08175097700007
+    ]
+  },
+  {
+    "admin2Name": "Wurno",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.719407837000063,
+      13.243125108000072
+    ]
+  },
+  {
+    "admin2Name": "Wushishi",
+    "admin1Name": "Niger",
+    "coordinates": [
+      6.20639039100007,
+      9.900596799000027
+    ]
+  },
+  {
+    "admin2Name": "Yabo",
+    "admin1Name": "Sokoto",
+    "coordinates": [
+      5.045446937000065,
+      12.929120860000069
+    ]
+  },
+  {
+    "admin2Name": "Yagba East",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      6.082657812000036,
+      8.401764024000045
+    ]
+  },
+  {
+    "admin2Name": "Yagba West",
+    "admin1Name": "Kogi",
+    "coordinates": [
+      5.688176712000029,
+      8.452851312000064
+    ]
+  },
+  {
+    "admin2Name": "Yakurr",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.338215140000045,
+      5.742806980000069
+    ]
+  },
+  {
+    "admin2Name": "Yala",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.929426368000065,
+      6.820408795000048
+    ]
+  },
+  {
+    "admin2Name": "Yamaltu/Deba",
+    "admin1Name": "Gombe",
+    "coordinates": [
+      11.640150340000048,
+      10.609040031000063
+    ]
+  },
+  {
+    "admin2Name": "Yankwashi",
+    "admin1Name": "Jigawa",
+    "coordinates": [
+      8.495636408000053,
+      12.834476106000068
+    ]
+  },
+  {
+    "admin2Name": "Yauri",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      4.802208255000039,
+      10.893743320000056
+    ]
+  },
+  {
+    "admin2Name": "Yenegoa",
+    "admin1Name": "Bayelsa",
+    "coordinates": [
+      6.555801570000028,
+      5.202908291000028
+    ]
+  },
+  {
+    "admin2Name": "Yola South",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.292505027000061,
+      9.459261484000024
+    ]
+  },
+  {
+    "admin2Name": "Yola North",
+    "admin1Name": "Adamawa",
+    "coordinates": [
+      12.482119040000043,
+      9.249651234000055
+    ]
+  },
+  {
+    "admin2Name": "Yorro",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.698466326000073,
+      9.14384005900007
+    ]
+  },
+  {
+    "admin2Name": "Yunusari",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      12.394129994000025,
+      13.07709976800004
+    ]
+  },
+  {
+    "admin2Name": "Yusufari",
+    "admin1Name": "Yobe",
+    "coordinates": [
+      11.391300476000026,
+      12.988679993000062
+    ]
+  },
+  {
+    "admin2Name": "Zaki",
+    "admin1Name": "Bauchi",
+    "coordinates": [
+      10.759832844000073,
+      12.36964935800006
+    ]
+  },
+  {
+    "admin2Name": "Zango",
+    "admin1Name": "Katsina",
+    "coordinates": [
+      8.709818127000062,
+      12.91382668600005
+    ]
+  },
+  {
+    "admin2Name": "Zango-Kataf",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      8.516169466000065,
+      9.737173960000064
+    ]
+  },
+  {
+    "admin2Name": "Zaria",
+    "admin1Name": "Kaduna",
+    "coordinates": [
+      7.77153918700003,
+      11.123617883000065
+    ]
+  },
+  {
+    "admin2Name": "Zing",
+    "admin1Name": "Taraba",
+    "coordinates": [
+      11.78945542100007,
+      8.643571977000022
+    ]
+  },
+  {
+    "admin2Name": "Zurmi",
+    "admin1Name": "Zamfara",
+    "coordinates": [
+      7.047684777000029,
+      12.999111687000038
+    ]
+  },
+  {
+    "admin2Name": "Zuru",
+    "admin1Name": "Kebbi",
+    "coordinates": [
+      5.397955649000039,
+      11.402651526000056
+    ]
+  },
+  {
+    "admin2Name": "Bakassi",
+    "admin1Name": "Cross River",
+    "coordinates": [
+      8.560679695000033,
+      4.798473349000062
+    ]
+  },
+  {
+    "admin2Name": "Abadam",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.35885273200006,
+      13.71260630200004
+    ]
+  },
+  {
+    "admin2Name": "Askira/Uba",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.223779912000055,
+      10.850911802000041
+    ]
+  },
+  {
+    "admin2Name": "Bama",
+    "admin1Name": "Borno",
+    "coordinates": [
+      14.312129955000046,
+      11.842729562000045
+    ]
+  },
+  {
+    "admin2Name": "Bayo",
+    "admin1Name": "Borno",
+    "coordinates": [
+      11.79627977000007,
+      10.611069762000056
+    ]
+  },
+  {
+    "admin2Name": "Biu",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.190429708000067,
+      11.05123977200003
+    ]
+  },
+  {
+    "admin2Name": "Chibok",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.828282541000021,
+      10.963549901000022
+    ]
+  },
+  {
+    "admin2Name": "Damboa",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.602892032000057,
+      11.241804559000059
+    ]
+  },
+  {
+    "admin2Name": "Dikwa",
+    "admin1Name": "Borno",
+    "coordinates": [
+      14.048121305000052,
+      12.126988792000077
+    ]
+  },
+  {
+    "admin2Name": "Gubio",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.940149895000047,
+      12.805620247000036
+    ]
+  },
+  {
+    "admin2Name": "Guzamala",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.339080399000068,
+      13.087209582000071
+    ]
+  },
+  {
+    "admin2Name": "Gwoza",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.430590080000059,
+      11.484979702000032
+    ]
+  },
+  {
+    "admin2Name": "Hawul",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.124335765000069,
+      10.58708521400007
+    ]
+  },
+  {
+    "admin2Name": "Jere",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.289719584000068,
+      11.928749818000028
+    ]
+  },
+  {
+    "admin2Name": "Kaga",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.302820714000063,
+      11.930319978000057
+    ]
+  },
+  {
+    "admin2Name": "Kala/Balge",
+    "admin1Name": "Borno",
+    "coordinates": [
+      14.372580241000037,
+      12.357425517000024
+    ]
+  },
+  {
+    "admin2Name": "Konduga",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.141410244000042,
+      12.167279993000022
+    ]
+  },
+  {
+    "admin2Name": "Kukawa",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.892321547000051,
+      13.349025834000031
+    ]
+  },
+  {
+    "admin2Name": "Kwaya Kusar",
+    "admin1Name": "Borno",
+    "coordinates": [
+      11.810179580000067,
+      10.614800719000073
+    ]
+  },
+  {
+    "admin2Name": "Mafa",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.298710239000059,
+      12.309490099000072
+    ]
+  },
+  {
+    "admin2Name": "Magumeri",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.529309683000065,
+      12.491049770000075
+    ]
+  },
+  {
+    "admin2Name": "Maiduguri",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.165055736000056,
+      11.856036199000073
+    ]
+  },
+  {
+    "admin2Name": "Marte",
+    "admin1Name": "Borno",
+    "coordinates": [
+      14.15415537900003,
+      12.700997538000024
+    ]
+  },
+  {
+    "admin2Name": "Mobbar",
+    "admin1Name": "Borno",
+    "coordinates": [
+      12.82681006200005,
+      13.382869970000058
+    ]
+  },
+  {
+    "admin2Name": "Monguno",
+    "admin1Name": "Borno",
+    "coordinates": [
+      14.139640197000062,
+      12.792590173000065
+    ]
+  },
+  {
+    "admin2Name": "Ngala",
+    "admin1Name": "Borno",
+    "coordinates": [
+      14.179886123000074,
+      12.447228219000067
+    ]
+  },
+  {
+    "admin2Name": "Nganzai",
+    "admin1Name": "Borno",
+    "coordinates": [
+      13.24043768100006,
+      12.626029525000035
+    ]
+  },
+  {
+    "admin2Name": "Shani",
+    "admin1Name": "Borno",
+    "coordinates": [
+      11.996312500000045,
+      10.359222841000076
+    ]
+  }
+]
