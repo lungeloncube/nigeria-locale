@@ -26,7 +26,7 @@ class GetAllLgas(Resource):
 
 @locations_namespace.route('/lgas')
 class GetLgas(Resource):
-    """Gets a single lga coordinates"""
+    """Gets a all lgas data"""
 
     def get(self):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -34,23 +34,10 @@ class GetLgas(Resource):
             user = User.query.filter_by(api_key=api_key).first()
 
             if user is not None:
-                with open('static/lgas.json', 'r') as f:
+                with open('static/clean_lgas.json', 'r') as f:
                     data = json.load(f)
 
-                with open('clean_lgas.json', 'w') as g:
-                    lgas = []
-                    for x in data:
-                        print(x)
-                        lg = {
-                            'admin2Name': x["properties"]["admin2Name"],
-                            'admin1Name': x["properties"]["admin1Name"],
-                            'coordinates': x["geometry"]["coordinates"][0][0][0]
-                        }
-                        lgas.append(lg)
-                    json_string=json.dumps(lgas)
-                    g.write(json_string)
-
-                    return "all_lgas"
+                    return data
             else:
                 return {"message": "Please provide a valid key"}, 400
 
