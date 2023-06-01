@@ -24,7 +24,7 @@ class GetAllLgas(Resource):
         pass
 
 
-@locations_namespace.route('/clean/lgas')
+@locations_namespace.route('/lgas')
 class GetLgas(Resource):
     """Gets a single lga coordinates"""
 
@@ -37,7 +37,7 @@ class GetLgas(Resource):
                 with open('static/lgas.json', 'r') as f:
                     data = json.load(f)
 
-                with open('file2.json', 'w') as g:
+                with open('clean_lgas.json', 'w') as g:
                     lgas = []
                     for x in data:
                         print(x)
