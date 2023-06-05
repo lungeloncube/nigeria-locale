@@ -215,7 +215,7 @@ class GetRegion(Resource):
             return {"message": "Please provide an API key"}, 400
 
 
-@locations_namespace.route('/region/<name>')
+@locations_namespace.route('/region/<name>/detailed/cities')
 class GetRegionByName(Resource):
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -263,6 +263,45 @@ class GetRegion(Resource):
 
                     output_dict = [x for x in data if name in x['country']]
                     return output_dict
+            else:
+                return {"message": "Please provide a valid key"}, 400
+
+        else:
+            return {"message": "Please provide an API key"}, 400
+
+
+@locations_namespace.route('/region/<name>/detailed/cities/lgas')
+class GetRegionByName(Resource):
+    def get(self, name):
+        if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
+            api_key = request.headers.get('x-api-key')
+            user = User.query.filter_by(api_key=api_key).first()
+
+            if user is not None:
+                # Transform json input to python objects
+                with open('static/nr_regions.json', 'r') as f:
+                    data = json.load(f)
+                with open('static/cities.json', 'r') as g:
+                    cities = json.load(g)
+
+                with open('static/clean_lgas.json', 'r') as s:
+                    lgas = json.load(s)
+
+                    # Filter python objects with list comprehensions
+                    output_dict = [x for x in data if x['name'] == name]
+                    new_dict = []
+                    consolidated_list = []
+                    if output_dict:
+                        for state in output_dict[0]["states"]:
+                            for city in cities:
+                                if state == city["state_or_region"]:
+                                    new_dict.append(city)
+                    if new_dict is not None:
+                        for item in new_dict:
+                            output_dict = [x for x in lgas if x['admin1Name'] == item['state_or_region']]
+                            consolidated_list.append(output_dict)
+
+                    return consolidated_list
             else:
                 return {"message": "Please provide a valid key"}, 400
 
