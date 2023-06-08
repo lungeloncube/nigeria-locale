@@ -299,7 +299,13 @@ class GetRegionByName(Resource):
                     if new_dict is not None:
                         for item in new_dict:
                             output_dict = [x for x in lgas if x['admin1Name'] == item['state_or_region']]
-                            consolidated_list.append(output_dict)
+
+                            new_item = {
+                                "city": item["name"],
+                                "state": item["state_or_region"],
+                                "lgas": output_dict
+                            }
+                            consolidated_list.append(new_item)
 
                     return consolidated_list
             else:
