@@ -9,7 +9,6 @@ from http import HTTPStatus
 import uuid
 from hmac import compare_digest
 
-
 auth_namespace = Namespace("auth", description="a namespace for authentication")
 
 
@@ -59,35 +58,13 @@ class SignUp(Resource):
         return new_user, HTTPStatus.CREATED
 
 
-@auth_namespace.route("/login")
-class Login(Resource):
-    def post(self):
-        pass
-
-
-# # The actual decorator function
-# def require_appkey(view_function):
-#     @functools.wraps(view_function)
-#     # the new, post-decoration function. Note *args and **kwargs here.
-#     def decorated_function(*args, **kwargs):
-#         with open('api.key', 'r') as apikey:
-#             key = apikey.read().replace('\n', '')
-#         # if request.args.get('key') and request.args.get('key') == key:
-#         if request.headers.get('x-api-key') and request.headers.get('x-api-key') == key:
-#             return view_function(*args, **kwargs)
-#         else:
-#             abort(401)
-#
-#     return decorated_function
-
-
 @auth_namespace.route("/country/<name>")
 class Country(Resource):
 
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
-            user=User.query.filter_by(api_key=api_key).first()
+            user = User.query.filter_by(api_key=api_key).first()
             if user is not None:
                 return name
             else:
@@ -95,5 +72,3 @@ class Country(Resource):
 
         else:
             return {"message": "Please provide an API key"}, 400
-
-

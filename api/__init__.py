@@ -1,5 +1,4 @@
 from flask import Flask
-from flask_migrate import Migrate
 from flask_restx import Api
 from .locations.views import locations_namespace
 from .auth.views import auth_namespace
@@ -13,8 +12,6 @@ def create_app(config=config_dict['dev']):
     app = Flask(__name__)
     app.config.from_object(config)
     db.init_app(app)
-    migrate = Migrate(app, db)
-
     migrate = Migrate(app, db)
 
     api = Api(app)

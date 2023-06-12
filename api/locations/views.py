@@ -6,9 +6,7 @@ from flask_limiter.util import get_remote_address
 from flask_restx import Namespace, Resource
 from app import app
 
-
 from ..models.users import User
-
 
 limiter = Limiter(
     get_remote_address,
@@ -17,16 +15,6 @@ limiter = Limiter(
     storage_uri="memory://")
 
 locations_namespace = Namespace("locations", description="a namespace for locations")
-
-
-@locations_namespace.route('/')
-class GetAllLocations(Resource):
-    """Gets all regions and states and lgas coordinates"""
-
-    @limiter.limit("2 per day")
-
-    def get(self):
-        pass
 
 
 @locations_namespace.route('/lgas/<name>')
@@ -273,7 +261,6 @@ class GetRegionByName(Resource):
 @locations_namespace.route('/country/<name>/cities')
 class GetRegion(Resource):
     """Gets  the cities  using country name """
-
 
     @limiter.limit("2 per day")
     def get(self, name):
