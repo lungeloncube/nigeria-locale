@@ -43,19 +43,21 @@ user_model = auth_namespace.model(
 @auth_namespace.route('/signup')
 class SignUp(Resource):
     @auth_namespace.expect(signup_model)
-    @auth_namespace.marshal_with(user_model)
+    # @auth_namespace.marshal_with(user_model)
     def post(self):
         data = request.get_json()
+        users = User.query.filter_by(email=data['email']).all()
+        if len(users) < 1:
 
-        new_user = User(
-            id=data.get('id'),
-            username=data.get('username'),
-            email=data.get('email'),
-            password_hash=generate_password_hash(data.get('password')),
-            api_key=uuid.uuid4().hex
-        )
-        new_user.save()
-        return new_user, HTTPStatus.CREATED
+            new_user = User(
+                id=data.get('id'),
+                username=data.get('username'),
+                email=data.get('email'),
+                password_hash=generate_password_hash(data.get('password')),
+                api_key=uuid.uuid4().hex
+            )
+            new_user.save()
+            return {"api-key":new_user.api_key}, HTTPStatus.CREATED
+        else:
 
-
-
+            return {"failed": "User already exist"}, HTTPStatus.CONFLICT

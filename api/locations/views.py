@@ -44,7 +44,7 @@ class GetAllLgas(Resource):
 class GetLgas(Resource):
     """Gets a all lgas data"""
 
-    @limiter.limit("5 per hour")
+    @limiter.limit("10 per hour")
     def get(self):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -66,7 +66,7 @@ class GetLgas(Resource):
 class GetStates(Resource):
     """Gets all states coordinates"""
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self):
 
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -88,7 +88,7 @@ class GetStates(Resource):
 class GetState(Resource):
     """Gets a single city coordinates"""
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, city_name):
 
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -116,7 +116,7 @@ class GetState(Resource):
 class GetState(Resource):
     """Gets a single city coordinates"""
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, state_name):
 
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -137,20 +137,12 @@ class GetState(Resource):
             return {"message": "Please provide an API key"}, 400
 
 
-@locations_namespace.route('/place/<name>')
-class GetPlaceByName(Resource):
-    """gets  cordinates by place name"""
-
-    @limiter.limit("2 per hour")
-    def get(self, name):
-        pass
-
 
 @locations_namespace.route('/city/<latitude>/<longitude>')
 class GetPlaceByLatLong(Resource):
     """Get city by latlong"""
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, latitude, longitude):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -177,7 +169,7 @@ class GetPlaceByLatLong(Resource):
 class GetRegions(Resource):
     """Gets all the regions with their states """
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -201,7 +193,7 @@ class GetRegions(Resource):
 class GetRegion(Resource):
     """Gets  the region name using state name """
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -228,7 +220,7 @@ class GetRegion(Resource):
 @locations_namespace.route('/region/<name>/detailed/cities')
 class GetRegionByName(Resource):
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -262,7 +254,7 @@ class GetRegionByName(Resource):
 class GetRegion(Resource):
     """Gets  the cities  using country name """
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -286,7 +278,7 @@ class GetRegion(Resource):
 @locations_namespace.route('/region/<name>/detailed/cities/lgas')
 class GetRegionByName(Resource):
 
-    @limiter.limit("2 per hour")
+    @limiter.limit("10 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
