@@ -43,7 +43,6 @@ user_model = auth_namespace.model(
 @auth_namespace.route('/signup')
 class SignUp(Resource):
     @auth_namespace.expect(signup_model)
-    # @auth_namespace.marshal_with(user_model)
     def post(self):
         data = request.get_json()
         users = User.query.filter_by(email=data['email']).all()
@@ -57,7 +56,9 @@ class SignUp(Resource):
                 api_key=uuid.uuid4().hex
             )
             new_user.save()
-            return {"api-key":new_user.api_key}, HTTPStatus.CREATED
-        else:
+            return {"api-key": new_user.api_key}, HTTPStatus.CREATED
+        elif len(users) >= 1:
+            return {"api-key": users[0].api_key}, HTTPStatus.OK
 
-            return {"failed": "User already exist"}, HTTPStatus.CONFLICT
+        else:
+            return {"Error": "Contact admin"}
