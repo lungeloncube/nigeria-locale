@@ -114,7 +114,7 @@ class GetState(Resource):
 
 @locations_namespace.route('/state/<state_name>')
 class GetState(Resource):
-    """Gets a single city coordinates"""
+    """Gets a single state coordinates"""
 
     @limiter.limit("10 per hour")
     def get(self, state_name):
@@ -137,7 +137,6 @@ class GetState(Resource):
             return {"message": "Please provide an API key"}, 400
 
 
-
 @locations_namespace.route('/city/<latitude>/<longitude>')
 class GetPlaceByLatLong(Resource):
     """Get city by latlong"""
@@ -150,14 +149,18 @@ class GetPlaceByLatLong(Resource):
 
             if user is not None:
                 # Transform json input to python objects
-                with open('static/zw-ng.json', 'r') as f:
+                with open('static/cities.json', 'r') as f:
                     data = json.load(f)
                     # Filter python objects with list comprehensions
-                    output_dict = [x for x in data if x['lat'] == latitude and x['lng'] == longitude]
-                    if output_dict:
-                        return output_dict[0]
-                    else:
-                        return {"message": "Nothing found"}, 404
+                    # output_dict = [x for x in data if x['latitude'] == latitude and x['longitude'] == longitude]
+                    empty_list = []
+                    for city in data:
+                        print(city['latitude'])
+                        if city['latitude'] == latitude and city['longitude'] == longitude:
+                            empty_list.append(city)
+
+                    return empty_list
+
             else:
                 return {"message": "Please provide a valid key"}, 400
 

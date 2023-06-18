@@ -1,0 +1,394 @@
+{
+	"info": {
+		"_postman_id": "47406be5-4b42-47bf-a85c-2beae65aed26",
+		"name": "locale",
+		"description": "# **NIGERIA-LOCALE API**\n\nThis API provides information on the regions, states, cities and LGAs in the country of Nigeria. Endpoints are rate Limited to a maximum of 5 requests an hour.\n\nTo Access the Endpoints of this API Developer or User needs to sign in and receive API Key that will be used to authenticate all requests made to the API\n\n## **API provides** :\n\nLocation name(can be state name, region name, city or lga name)\n\nCoordinates(latitude and longitude)\n\nAnd other related information",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20386695"
+	},
+	"item": [
+		{
+			"name": "Get Location By Lat Long",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/city/5.464/7.331 ",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"city",
+						"5.464",
+						"7.331 "
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Cities By State",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/city/Gwadabawa",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"city",
+						"Gwadabawa"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get API-KEY",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\":\"lulu\",\n\t\"email\":\"lulu@gmail.com\",\n\t\"password\":\"password123\"\n\t\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/auth/signup",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"auth",
+						"signup"
+					]
+				},
+				"description": "This end point return a once of api_key to be used to access all other endpoints\n\n### Response\n\n``` json\n{\n    \"api-key\": \"6f9ddba7c8524ebeb93966ef19a175c4\"\n}\n\n```"
+			},
+			"response": []
+		},
+		{
+			"name": "Get States",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/locations/states",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"locations",
+						"states"
+					]
+				},
+				"description": "Endpoint requires x-api-key header obtained from Get API KEY endpoint\n\n### Example Response\n\n```\n[\n    {\n        \"geo_id\": 2329821,\n        \"name\": \"Mubi\",\n        \"state_or_region\": \"Adamawa\",\n        \"country\": {\n            \"code\": \"NG\",\n            \"name\": \"Nigeria\"\n        },\n        \"latitude\": 10.26761,\n        \"longitude\": 13.26436\n    },\n    {\n        \"geo_id\": 2335727,\n        \"name\": \"Kaduna\",\n        \"state_or_region\": \"Kaduna\",\n        \"country\": {\n            \"code\": \"NG\",\n            \"name\": \"Nigeria\"\n        },\n        \"latitude\": 10.52224,\n        \"longitude\": 7.43828\n    },\n    {\n        \"geo_id\": 2335798,\n        \"name\": \"Kachia\",\n        \"state_or_region\": \"Kaduna\",\n        \"country\": {\n            \"code\": \"NG\",\n            \"name\": \"Nigeria\"\n        },\n        \"latitude\": 9.86667,\n        \"longitude\": 7.95\n    }\n]\n\n```"
+			},
+			"response": []
+		},
+		{
+			"name": "Get City By Name",
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "a31de20e9e854be38a16160ebd6efb36",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "x-api-key",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/city/Gwadabawa",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"city",
+						"Gwadabawa"
+					]
+				},
+				"description": "Response Example\n\n``` json\n[\n    {\n        \"geo_id\": 2339892,\n        \"name\": \"Gwadabawa\",\n        \"state_or_region\": \"Sokoto\",\n        \"country\": {\n            \"code\": \"NG\",\n            \"name\": \"Nigeria\"\n        },\n        \"latitude\": 13.35612,\n        \"longitude\": 5.23664\n    }\n]\n\n```"
+			},
+			"response": []
+		},
+		{
+			"name": "Get States by City Name",
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "a31de20e9e854be38a16160ebd6efb36",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "x-api-key",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/state/Kaduna",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"state",
+						"Kaduna"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find Region By State",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/region/state/Kaduna",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"region",
+						"state",
+						"Kaduna"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get regions info (cities, lgas, state) by region name",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "6f9ddba7c8524ebeb93966ef19a175c4",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/region/North-Western/detailed/cities/lgas",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"region",
+						"North-Western",
+						"detailed",
+						"cities",
+						"lgas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Cities By Country Name",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/country/Nigeria/cities",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"country",
+						"Nigeria",
+						"cities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All LGAS",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/lgas",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"lgas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get LGA By Name",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://lungeloncube.pythonanywhere.com/locations/lgas/Konduga",
+					"protocol": "http",
+					"host": [
+						"lungeloncube",
+						"pythonanywhere",
+						"com"
+					],
+					"path": [
+						"locations",
+						"lgas",
+						"Konduga"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get region info (cities)",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "a31de20e9e854be38a16160ebd6efb36",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/locations/region/North-Western/detailed/cities",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"locations",
+						"region",
+						"North-Western",
+						"detailed",
+						"cities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Regions and their states",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
