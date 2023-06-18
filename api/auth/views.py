@@ -58,17 +58,4 @@ class SignUp(Resource):
         return new_user, HTTPStatus.CREATED
 
 
-@auth_namespace.route("/country/<name>")
-class Country(Resource):
 
-    def get(self, name):
-        if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
-            api_key = request.headers.get('x-api-key')
-            user = User.query.filter_by(api_key=api_key).first()
-            if user is not None:
-                return name
-            else:
-                return {"message": "Please provide a valid key"}, 400
-
-        else:
-            return {"message": "Please provide an API key"}, 400

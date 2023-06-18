@@ -21,7 +21,7 @@ locations_namespace = Namespace("locations", description="a namespace for locati
 class GetAllLgas(Resource):
     """Gets all the lags locations"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("5 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -44,7 +44,7 @@ class GetAllLgas(Resource):
 class GetLgas(Resource):
     """Gets a all lgas data"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("5 per hour")
     def get(self):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -66,7 +66,7 @@ class GetLgas(Resource):
 class GetStates(Resource):
     """Gets all states coordinates"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self):
 
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -88,7 +88,7 @@ class GetStates(Resource):
 class GetState(Resource):
     """Gets a single city coordinates"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, city_name):
 
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -116,7 +116,7 @@ class GetState(Resource):
 class GetState(Resource):
     """Gets a single city coordinates"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, state_name):
 
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
@@ -141,7 +141,7 @@ class GetState(Resource):
 class GetPlaceByName(Resource):
     """gets  cordinates by place name"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, name):
         pass
 
@@ -150,7 +150,7 @@ class GetPlaceByName(Resource):
 class GetPlaceByLatLong(Resource):
     """Get city by latlong"""
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, latitude, longitude):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -177,7 +177,7 @@ class GetPlaceByLatLong(Resource):
 class GetRegions(Resource):
     """Gets all the regions with their states """
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -201,7 +201,7 @@ class GetRegions(Resource):
 class GetRegion(Resource):
     """Gets  the region name using state name """
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -228,7 +228,7 @@ class GetRegion(Resource):
 @locations_namespace.route('/region/<name>/detailed/cities')
 class GetRegionByName(Resource):
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -262,7 +262,7 @@ class GetRegionByName(Resource):
 class GetRegion(Resource):
     """Gets  the cities  using country name """
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -286,7 +286,7 @@ class GetRegion(Resource):
 @locations_namespace.route('/region/<name>/detailed/cities/lgas')
 class GetRegionByName(Resource):
 
-    @limiter.limit("2 per day")
+    @limiter.limit("2 per hour")
     def get(self, name):
         if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
             api_key = request.headers.get('x-api-key')
@@ -325,6 +325,22 @@ class GetRegionByName(Resource):
                             consolidated_list.append(new_item)
 
                     return consolidated_list
+            else:
+                return {"message": "Please provide a valid key"}, 400
+
+        else:
+            return {"message": "Please provide an API key"}, 400
+
+
+@locations_namespace.route("/country/<name>")
+class Country(Resource):
+
+    def get(self, name):
+        if request.headers.get('x-api-key') and request.headers.get('x-api-key') is not None:
+            api_key = request.headers.get('x-api-key')
+            user = User.query.filter_by(api_key=api_key).first()
+            if user is not None:
+                return name
             else:
                 return {"message": "Please provide a valid key"}, 400
 
